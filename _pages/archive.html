@@ -1,11 +1,9 @@
 ---
+description:
+
 layout: page
-title : Archive
-header : Post Archive
-tagline : "hello i am jade"
-group: navigation
 ---
 
-{{# _posts.collated }}
+{{# db.posts.collated }}
   {{> posts_collate }}
-{{/ _posts.collated }}
+{{/ db.posts.collated }}
