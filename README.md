@@ -20,7 +20,7 @@ Assume USERNAME is your GitHub username.
 ````bash
 $ git clone git://github.com/ruhoh/blog.git USERNAME.ruhoh.com
 $ cd USERNAME.ruhoh.com
-$ rackup -9292
+$ rackup -p 9292
 ````
 
 Using your GitHub username is useful for automatically publishing to ruhoh.com
