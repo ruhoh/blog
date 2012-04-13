@@ -1,7 +1,8 @@
 ---
-version : 0.0.3
-permalink: /:categories/:title
+RuhohSpec: '0.1'
+
 theme : twitter
+permalink: /:categories/:title
 
 production_url : http://sample.com
 
