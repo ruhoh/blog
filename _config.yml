@@ -1,5 +1,5 @@
 ---
-RuhohSpec: '0.1'
+RuhohSpec: '0.2'
 
 theme : twitter
 permalink: /:categories/:title
