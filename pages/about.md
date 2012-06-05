@@ -1,6 +1,6 @@
 ---
 title : About Me
 description:
-
-layout : page
 ---
+
+Hello, how are you?

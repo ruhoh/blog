@@ -7,7 +7,7 @@ layout : default
 
 <div class="row">
   <div class="span8">
-    {{ content }}
+    {{{ content }}}
     <hr>
     <div class="pagination">
       <ul>
@@ -19,7 +19,7 @@ layout : default
             <li class="prev disabled"><a>&larr; Previous</a></li>
           {{/ page?previous }}
 
-            <li><a href="/archive.html">Archive</a></li>
+            <li><a href="/archive">Archive</a></li>
 
           {{# page?next }}
             <li class="next"><a href="{{ url }}" title="{{ title }}">Next &rarr;</a></li>

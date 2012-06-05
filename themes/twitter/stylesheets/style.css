@@ -35,6 +35,22 @@ html, body {
   margin: -20px -20px 20px;
 }
 
+/* posts index */
+.post > h3.title {
+  position:relative;
+  padding-top:10px;
+  border-top:3px solid #eee;
+}
+.post > h3.title span.date { 
+  position:absolute;
+  right:0;
+  font-size:0.9em;
+}
+.post > .more {
+  margin:10px 0;
+  text-align:left;
+}
+
 /* tag_box ======================================================== */
 
 .tag_box {
