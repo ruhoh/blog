@@ -1,14 +1,23 @@
 ---
-# Usage: http://ruhoh.com/usage/configure/ 
+# Usage: http://ruhoh.com
 
-RuhohSpec: '1.0'
-theme : twitter
-production_url : http://sample.com
+RuhohSpec: "2.0.alpha"
+
+production_url: "http://sample.com"
+base_path: "/"
+
+theme:
+  name: "twitter"
 
 posts:
-  permalink: /:categories/:title/
+  permalink: "/:categories/:title/"
   summary_lines: 20
-  latest: 10
+  latest: 5
 
 pages:
-  permalink: 'pretty'
+  summary_lines: 20
+
+paginator:
+  namespace: "/posts/"
+  per_page: 5
+  root_page: "/"
