@@ -30,7 +30,7 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">{{ data.title }}</a>
+          <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
           <ul class="nav">
             {{# data.navigation?to_pages }}
               {{> pages_list }}
