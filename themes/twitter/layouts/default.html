@@ -6,7 +6,7 @@
   {{# page.description }}
     <meta name="description" content="{{ . }}">
   {{/ page.description }}
-    <meta name="author" content="{{ site.author.name }}">
+    <meta name="author" content="{{ data.author.name }}">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -30,11 +30,11 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">{{ site.title }}</a>
+          <a class="brand" href="/">{{ data.title }}</a>
           <ul class="nav">
-            {{# site.navigation?to_pages }}
+            {{# data.navigation?to_pages }}
               {{> pages_list }}
-            {{/ site.navigation?to_pages }}
+            {{/ data.navigation?to_pages }}
           </ul>
         </div>
       </div>
@@ -47,7 +47,7 @@
       </div>
 
       <footer>
-        <p>&copy; {{ site.author.name }} 2012 
+        <p>&copy; {{ data.author.name }} 2012 
           with help from <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
