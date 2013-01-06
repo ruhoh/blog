@@ -3,17 +3,9 @@ title: Home
 description:
 ---
 
-<h2>Start</h2>
-<p>
-  Ruhoh is all about the command-line.
-  <br>Check out the goods:
-</p>
-<pre><code>$ ruhoh help</code></pre>
-
-
 <h2>Latest Posts</h2>
 
-{{# posts_latest }}
+{{# posts.paginator }}
 <div class="post">
   <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
 
@@ -23,4 +15,17 @@ description:
     <a href="{{url}}" class="btn">read more..</a>
   </div>
 </div>
-{{/ posts_latest }}
+{{/ posts.paginator }}
+
+<div class="pagination">
+  <ul>
+  {{#posts.paginator_navigation}}
+    {{#is_active_page}}
+      <li class="active"><a href="{{url}}">{{name}}</a></li>
+    {{/is_active_page}}
+    {{^is_active_page}}
+      <li><a href="{{url}}">{{name}}</a></li>
+    {{/is_active_page}}
+  {{/posts.paginator_navigation}}
+  </ul>
+</div>
