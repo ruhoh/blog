@@ -2,17 +2,19 @@
 description:
 ---
 
+<h2>Posts</h2>
+
 <ul class="tag_box inline">
-{{# categories }}
+{{# posts.categories.all }}
   {{> categories_list }}
-{{/ categories }}
+{{/ posts.categories.all }}
 </ul>
 
-{{# categories }}
+{{# posts.categories.all }}
   <h2>{{ name }} ({{ count }})</h2>
   <ul>
     {{# posts?to_posts }}
       {{> posts_list }}
     {{/ posts?to_posts }}
   </ul>
-{{/ categories }}
+{{/ posts.categories.all }}
