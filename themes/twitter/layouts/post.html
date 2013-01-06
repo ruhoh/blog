@@ -38,16 +38,16 @@ layout : default
     <br>
     <h4>Categories</h4>
     <ul class="tag_box">
-    {{# page.categories?to_categories }}
+    {{# page.categories }}
       {{> categories_list }}
-    {{/ page.categories?to_categories }}
+    {{/ page.categories }}
     </ul>
     <br>
     <h4>Tags</h4>
     <ul class="tag_box">
-    {{# page.tags?to_tags }}
+    {{# page.tags }}
       {{> tags_list }}
-    {{/ page.tags?to_tags }}
+    {{/ page.tags }}
     </ul>
   </div>
 </div>
