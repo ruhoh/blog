@@ -1,35 +1,86 @@
+**This version is for [ruhohSpec v2.0.alpha](http://ruhoh.com/edge/) and is only compatible with ruhoh 2.0.x**
+
 A default blog scaffold for **ruhoh** compatible static blog parsers.
 
-**This version is for [ruhohSpec v1.0](http://ruhoh.com/universal-blog-api/) and is only compatible with ruhoh gem 1.0.x.x**
+## Usage
 
-See <http://ruhoh.com> for more information.
+### ruby 1.9.2+
 
-## Usage and Documentation
+Presently ruhoh 2.0.alpha should be bundled using bundler so you can use both ruhoh 1.x and ruhoh 2.x at the same time.
 
-See <http://ruhoh.com/usage> for full usage and documentation.
+#### Clone the Blog Scaffold
 
-Currently the only parser is available in ruby as a ruby gem:
+    $ git clone git://github.com/ruhoh/blog.git blog-v2
 
-````bash
-$ gem install ruhoh --version '1.0.0.alpha'
-$ ruhoh help
-````
+Checkout **2.0.alpha branch**
 
-Once you have the gem you can run your blog locally:
+    $ cd blog-v2
+    $ git checkout 2.0.alpha
 
-Assume USERNAME is your GitHub username.
+#### Get Bundler
 
-````bash
-$ git clone git://github.com/ruhoh/blog.git USERNAME.ruhoh.com
-$ cd USERNAME.ruhoh.com
-$ rackup -p 9292
-````
+Do you have bundler?
 
-Using your GitHub username is useful for automatically publishing to ruhoh.com
+    $ bundle -v
+    
+If it's not found, install it:
 
-For all publishing options including self-hosting see: <http://ruhoh.com/usage/publish>
+    $ gem install bundler
+    
+More info on bundler: http://gembundler.com/
+
+#### Bundle Install
+
+This blog ships with its own [Gemfile][]. All you need to do is install the bundle.
+
+Navigate to the root of this repository and execute:
+
+    $ bundle install
+
+#### Run Ruhoh from the Bundle
+
+Once the bundle is completed, run:
+
+    $ bundle exec rackup -p 9292
+
+To access the bundled ruhoh (2.0.alpha) you'll need precede your commands with `bundle exec`:
+
+    $ bundle exec ruhoh help
+
+
+## Upgrading
+
+It's best to first get a fresh blog installed and running locally via bundler as outlined.
+Next you'll want to compare your existing ruhoh 1.x blog to the new blog scaffold.
+
+[You can view a comparison of the commits between the two version on GitHub][Compare]
+
+Once you've converted your existing blog, try running it with ruhoh 2.0.x by copying the [Gemfile][] into your existing blog and running it with bundler as outlined above.
+
+When ruhoh 2.0. is officially shipped, you'll be able to download and use it as normal:
+
+    $ gem install ruhoh
+
+But not yet!
+
+## Help
+
+Feel free to submit installation and upgrading issues via [GitHub Issues](https://github.com/ruhoh/blog/issues)
+They can be basic trouble-shooting questions.
+
+Also contact me via:
+
+- email: plusjade@gmail.com
+- twitter: [@ruhohBlog](http://twitter.com/ruhohBlog)
+
+## Documentation
+
+See <http://ruhoh.com/edge> for full usage and documentation.
 
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT)
 
+
+[Compare]: https://github.com/ruhoh/blog/compare/2.0.alpha
+[Gemfile]: https://github.com/ruhoh/blog/blob/2.0.alpha/Gemfile
