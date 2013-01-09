@@ -20,4 +20,3 @@ pages:
 paginator:
   namespace: "/posts/"
   per_page: 5
-  root_page: "/"
