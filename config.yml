@@ -1,9 +1,21 @@
 ---
 # Usage: http://ruhoh.com
 
+# This helps parsers (and hosting platforms) determine which version is needed to compile your site.
+# If you compile your blog yourself, setting this won't matter, but it's a nice thing to keep updated.
 RuhohSpec: "2.0.alpha"
 
+# Used for things like RSS that need the full URL to a given resource.
+# This DOES NOT affect any of your paths or links in any way.
+# This DOES NOT configure domain mapping. See post2.ruhoh.com for hosting options.
 production_url: "http://sample.com"
+
+# Intelligently prepends all urls in the system with the given base_path.
+# This allows you to host your blog in a subdirectory of a given website.
+# Example:
+#  To host at the path: http://myuniversity.edu/staff/me/~/blog.
+#  set base_path: "/staff/me/~/blog"
+# NOTE: base_path is never added in development mode (for convenience).
 base_path: "/"
 
 theme:
@@ -18,6 +30,8 @@ pages:
   summary_lines: 20
 
 paginator:
+  # The namespace your paginated pages will be located: e.g /posts/1, /posts/2, /posts/3
+  # Always start with a forward slash, as ruhoh will internally respect any base_path you set.
   namespace: "/posts/"
   per_page: 5
   # Set the custom page you want page#1 of your posts paginator to link to. (default: /posts/1)
