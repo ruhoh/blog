@@ -20,3 +20,9 @@ pages:
 paginator:
   namespace: "/posts/"
   per_page: 5
+  # Set the custom page you want page#1 of your posts paginator to link to. (default: /posts/1)
+  # Note the default is technically <paginator.namespace>/1 just as the other paginated pages.
+  # It is up to you to display the paginator_pagination links somewhere in this case.
+  #
+  # root_page has been set to the root for a more traditional style blog feel.
+  root_page: '/'
