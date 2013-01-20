@@ -33,9 +33,9 @@
         <div class="container">
           <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
           <ul class="nav">
-            {{# data.navigation?to_pages?mark_active_page }}
+            {{# data.navigation?to_pages }}
               {{> pages_list }}
-            {{/ data.navigation?to_pages?mark_active_page }}
+            {{/ data.navigation?to_pages }}
           </ul>
         </div>
       </div>
