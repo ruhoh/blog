@@ -43,10 +43,25 @@ Once the bundle is completed, run:
 
     $ bundle exec rackup -p 9292
 
+This starts a web server that hosts your blog here: [http://localhost:9292](http://localhost:9292)
+
 To access the bundled ruhoh (2.0.alpha) you'll need precede your commands with `bundle exec`:
 
     $ bundle exec ruhoh help
 
+#### Make it Your Own
+
+The origin initially points to: git@github.com:ruhoh/blog.git
+
+To add your own remote, first create a new repository on GitHub. ex: git@github.com:USERNAME/my-ruhoh-blog.git
+
+    $ git remote rm origin
+    $ git remote add origin git@github.com:USERNAME/my-ruhoh-blog.git
+
+Now you can add your own content and push it to your repository:
+
+    $ git add .
+    $ git commit -m 'some new content'
 
 ## Upgrading
 
@@ -75,7 +90,7 @@ Also contact me via:
 
 ## Documentation
 
-See <http://ruhoh.com/edge> for full usage and documentation.
+See <http://ruhoh.com/docs/2> for full usage and documentation.
 
 ## License
 
