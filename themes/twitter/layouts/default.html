@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {{# page.description }}
     <meta name="description" content="{{ . }}">
   {{/ page.description }}
@@ -30,7 +31,7 @@
 
     <div class="navbar">
       <div class="navbar-inner">
-        <div class="container">
+        <div class="container-narrow">
           <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
           <ul class="nav">
             {{# data.navigation?to_pages }}
@@ -41,18 +42,19 @@
       </div>
     </div>
 
-    <div class="container">
+    <div class="container-narrow">
 
       <div class="content">
         {{{ content }}}
       </div>
 
-      <footer>
-        <p>&copy; {{ data.author.name }} 2012 
+      <hr>
+      <div class="footer">
+        <p>&copy; {{ data.author.name }} 2013
           with help from <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
-      </footer>
+      </div>
 
     </div> <!-- /container -->
 

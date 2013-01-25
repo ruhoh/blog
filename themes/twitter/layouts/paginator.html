@@ -2,7 +2,7 @@
 layout : default
 ---
 
-<div class="row">
+<div class="row-fluid">
   <div class="span12">
     {{#posts.paginator}}
       <div class="post">
@@ -11,7 +11,7 @@ layout : default
         {{{ summary }}}
 
         <div class="more">
-          <a href="{{url}}" class="btn">read more..</a>
+          <a href="{{url}}" class="btn btn-small">read more..</a>
         </div>
       </div>
     {{/posts.paginator}}
