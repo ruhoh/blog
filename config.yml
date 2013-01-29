@@ -40,3 +40,34 @@ paginator:
   #
   # root_page has been set to the root for a more traditional style blog feel.
   root_page: '/'
+
+widgets :
+
+  analytics :
+    use : google
+    # -- config for google --
+    tracking_id : 'UA-123-12'
+
+    # -- config for getclicky  --
+    # site_id :
+
+  comments :
+    use : disqus
+
+    # -- config for disqus --
+    short_name : jekyllbootstrap # Change This!
+
+    # -- config for livefyre --
+    # site_id : 123
+
+    # -- config for intensedebate --
+    # account : 123abc
+
+    # -- config for facebook --
+    # appid : 123
+    # num_posts: 5
+    # width: 580
+    # colorscheme: light
+
+  google_prettify :
+    linenums : true
