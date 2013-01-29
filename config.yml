@@ -41,6 +41,19 @@ paginator:
   # root_page has been set to the root for a more traditional style blog feel.
   root_page: '/'
 
+# Enable the asset pipeline to process stylesheets and javascripts using sass, coffeescript, etc.
+# The asset pipeline supports live preview + bundling/minification on compile.
+# Sprockets is used for the ruby version: https://github.com/sstephenson/sprockets#readme
+#
+# To Enable:
+#   1. Set enable to true.
+#   2. Update Gemfile to include the sprockets and supporting processor gems.
+#
+# It's done this way because some users just want to write a freaking blog post
+# and have no need for a billion gems -- hopefully you agree with me =)
+asset_pipeline:
+  enable: false
+
 widgets :
 
   analytics :
