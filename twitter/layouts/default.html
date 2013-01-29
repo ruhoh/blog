@@ -15,8 +15,11 @@
     <![endif]-->
 
     <!-- Le styles -->
-    {{{ stylesheets.all }}}
-    {{{ javascripts.all }}}
+    {{# stylesheets.load }}
+      bootstrap.min.css
+      style.css
+      google_prettify/sons-of-obsidian.css
+    {{/ stylesheets.load }}
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -60,5 +63,6 @@
 
     {{{ widgets.google_prettify }}}
     {{{ widgets.analytics }}}
+    
   </body>
 </html>
