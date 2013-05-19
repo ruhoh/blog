@@ -8,9 +8,8 @@ author :
   feedburner : feedname
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
-  - about.md
-  
+  - archive
+  - tags
+  - categories
+  - pages
+  - about
