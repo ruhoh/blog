@@ -4,8 +4,8 @@ layout : default
 
 <div class="row-fluid">
   <div class="span12">
-    {{#posts.paginator}}
-      <div class="post">
+    {{#collection.paginator}}
+      <div class="{{ collection.resource_name}}">
         <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
 
         {{{ summary }}}
@@ -14,18 +14,18 @@ layout : default
           <a href="{{url}}" class="btn btn-small">read more..</a>
         </div>
       </div>
-    {{/posts.paginator}}
+    {{/collection.paginator}}
     
     <div class="pagination">
       <ul>
-      {{#posts.paginator_navigation}}
+      {{#collection.paginator_navigation}}
         {{#is_active_page}}
           <li class="active"><a href="{{url}}">{{name}}</a></li>
         {{/is_active_page}}
         {{^is_active_page}}
           <li><a href="{{url}}">{{name}}</a></li>
         {{/is_active_page}}
-      {{/posts.paginator_navigation}}
+      {{/collection.paginator_navigation}}
       </ul>
     </div>
   </div>
