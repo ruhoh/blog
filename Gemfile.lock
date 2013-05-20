@@ -1,0 +1,27 @@
+GIT
+  remote: git://github.com/ruhoh/ruhoh.rb.git
+  revision: 23489231b9985823c8dd1a8c87740d8fad279114
+  specs:
+    ruhoh (2.1)
+      directory_watcher (~> 1.4.0)
+      mustache (~> 0.99)
+      nokogiri (~> 1.5)
+      rack (~> 1.4)
+      redcarpet (~> 2.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    directory_watcher (1.4.1)
+    mustache (0.99.4)
+    nokogiri (1.5.9)
+    psych (1.3.4)
+    rack (1.5.2)
+    redcarpet (2.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  psych (~> 1.3)
+  ruhoh!
