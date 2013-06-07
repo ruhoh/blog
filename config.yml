@@ -97,5 +97,7 @@ widgets :
     # width: 580
     # colorscheme: light
 
-  google_prettify :
+  syntax :  
+    use : prettify
+    cdn : false
     linenums : true
