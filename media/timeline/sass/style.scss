@@ -1,0 +1,143 @@
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+$text-color: rgb(77, 77, 77);
+$bg-entry: rgb(80,80,80);
+$mobile: 650px;
+
+.timeline {
+  margin: 50px auto;
+  max-width: 700px;
+  overflow:hidden;
+  height: auto;
+  position: relative;
+
+  .line {
+    position: absolute;
+    width: 1px;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEElEQVQIW2NMTEz8z8gABAAPKwIlXWq1kgAAAABJRU5ErkJggg==);    
+    height: 100%;
+    left: 49.9%;
+    z-index: 5;
+  }
+  
+
+  .year {
+    position:relative;
+    float: left;
+    clear: both;
+    margin: 75px auto;
+    text-align:center;
+    width: 100%;
+    z-index: 10;
+    color: white;
+
+    &.first {
+      margin-top: 0px !important;
+    }
+
+    span {
+      border-radius: 50px;
+      background: $bg-entry;
+      font-size: 3em;
+      max-width: 200px;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  
+  /* 
+    elements 1,(2),3,(4), etc.
+    elements in brackets inherit these properties, some are overridden below (2n)
+    beginning at 0
+  */
+  .event,.entry {
+    position:relative;
+    text-align:center;
+    float: right;
+    clear: right; 
+    width: 45%;
+    margin: 10px 2.5%;
+    
+    /* I want 40%, and not 45%! */
+    box-sizing: border-box;
+    
+    border-radius: 5px;
+    list-style-type: none;
+    display: block;
+    padding: .4em;
+    background: white;
+    z-index: 15;
+    
+    color: $text-color;
+    border: 1px solid lighten($bg-entry,30%);
+    text-decoration: none;
+    word-wrap:break-word;
+    -webkit-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    transition: all .15s linear;
+    
+    
+    @media all and (max-width: $mobile) {
+      width: 85%;
+    }
+    
+
+    img {
+      margin-top: 10px;
+      max-width: 100%;
+    }
+
+    &:hover {
+      background: lighten($bg-entry,15%);
+      color: white;
+      
+      a {
+        color: white;
+      }
+
+      &:after {
+        background: $bg-entry;
+      }
+    }
+
+
+    &.offset-first {
+       margin-top: -1.5em;
+    }
+    
+    &:nth-child(2n) {
+      float: left;
+      clear: left; 
+    }
+      
+    &:after {      
+      @media all and (min-width: $mobile) {
+        display: block;
+        content: ' ';
+        height: 6px; width: 6px;
+        background: lighten($bg-entry,30%);
+        border-radius: 50%;
+        position:absolute;
+        left: -5%;
+        top: .75em;
+        border: 2px solid white;
+      }
+    }
+    
+    &:nth-child(2n):after {
+      right: -5%;
+      /* reset the standard declaration I defined before*/
+      left: auto;
+    }
+  }
+  
+  li {
+    text-align: left;
+  }
+
+}

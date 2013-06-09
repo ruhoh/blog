@@ -1,6 +1,11 @@
 ---
 description:
+icon: icon-tags icon-white
 ---
+
+<div class="row-fluid">
+  <div class="span8">
+
 
 <ul class="tag_box inline">
 {{# posts.tags.all }}
@@ -8,9 +13,42 @@ description:
 {{/ posts.tags.all }}
 </ul>
 
+<hr>
+
 {{# posts.tags.all }}
-  <h3 id="{{name}}-ref">{{name}}</h3>
-  {{# posts?to_posts }}
-    <li><a href="{{url}}">{{title}}</a></li>
-  {{/ posts?to_posts }}
-{{/ posts.tags.all }} 
+   {{> tags_collate }}
+{{/ posts.tags.all }}
+
+  </div> <!-- span8 -->
+  
+  <div class="span4">
+
+    <div id="sidebar">
+
+	<h3 class="dsq-widget-title">License</h3>    
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+
+      <hr>
+      
+      <div id="recentcomments" class="dsq-widget">
+	<h3 class="dsq-widget-title">Comments</h3>
+	<script type="text/javascript" src="http://ghsite.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=32&excerpt_length=200"></script></div>
+      <a href="http://disqus.com/">Powered by Disqus</a>
+
+      <hr>
+      
+      <h3>Links</h3>
+      <ul class="blogroll">
+	<li><i class="icon-star"></i>&nbsp;&nbsp;<a href="http://josephpan.net" rel="friend" target="_blank">My Homepage</a></li>
+	<li><i class="icon-star"></i>&nbsp;&nbsp;<a href="http://josephpan.net/blog" rel="friend" target="_blank");">My Old Blog</a></li>	
+	{{# data.links}}
+	<li><i class="icon-user"></i>&nbsp;&nbsp;<a href="{{url}}" rel="friend" target="_blank"]);">{{title}}</a></li>
+	{{/ data.links}}
+      </ul>
+    </div> <!-- sidebar -->
+  </div> <!-- span4 -->
+  
+</div> <!-- row-fluid -->   
+
+
+  

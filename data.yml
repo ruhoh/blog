@@ -1,15 +1,27 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Ha Hack!
+tagline: Keep a simple and stupid mind.
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
+  name : Joseph Pan
+  email : cs.wzpan@gmail.com
+  github : wzpan
   twitter : username
-  feedburner : feedname
+  feedburner : wzpan
 
 navigation :
   - archive
+  - categories  
   - tags
-  - categories
-  - pages
-  - about
+
+links:
+  - title: amber
+    url: http://amberlife.net/
+  - title: A.C.Gの星祈
+    url: http://www.3acg.com/
+  - title: 大成の梦之园
+    url: http://web.siat.ac.cn/~jiacheng/
+  - title: 云　影
+    url: http://yunying.me/
+  - title: 30斤大番薯
+    url: http://www.cnblogs.com/qwcbeyond/
+  
+    

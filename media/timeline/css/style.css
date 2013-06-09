@@ -1,0 +1,247 @@
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+.timeline-border {
+  margin: 50px auto;
+  max-width: 700px;
+  overflow: hidden;
+  height: auto;
+  position: relative;
+  /* 
+    elements 1,(2),3,(4), etc.
+    elements in brackets inherit these properties, some are overridden below (2n)
+    beginning at 0
+  */
+}
+.timeline-border .line {
+  position: absolute;
+  width: 1px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEElEQVQIW2NMTEz8z8gABAAPKwIlXWq1kgAAAABJRU5ErkJggg==);
+  height: 100%;
+  left: 49.9%;
+  z-index: 5;
+}
+.timeline-border .year {
+  position: relative;
+  float: left;
+  clear: both;
+  margin: 75px auto;
+  text-align: center;
+  width: 100%;
+  z-index: 10;
+  color: white;
+}
+.timeline-border .year.first {
+  margin-top: 0px !important;
+}
+.timeline-border .year span {
+  border-radius: 50px;
+  background: #505050;
+  font-size: 3em;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+.timeline-border .event {
+  position: relative;
+  text-align: center;
+  float: right;
+  clear: right;
+  width: 45%;
+  margin: 10px 2.5%;
+  /* I want 40%, and not 45%! */
+  box-sizing: border-box;
+  border-radius: 5px;
+  list-style-type: none;
+  display: block;
+  padding: .4em;
+  background: white;
+  z-index: 15;
+  color: #4d4d4d;
+  border: 1px solid #9d9d9d;
+  text-decoration: none;
+  -webkit-transition: background .15s linear;
+  -moz-transition: background .15s linear;
+  -ms-transition: background .15s linear;
+  -o-transition: background .15s linear;
+  transition: background .15s linear;
+}
+@media all and (max-width: 600px) {
+  .timeline-border .event {
+    width: 85%;
+  }
+}
+.timeline-border .event img {
+  margin-top: 10px;
+}
+.timeline-border .event:hover {
+  background: #6a6a6a;
+  color: white;
+}
+.timeline-border .event:hover a {
+  color: white;
+}
+.timeline-border .event:hover:after {
+  background: #505050;
+}
+.timeline-border .event:first-of-type {
+  margin-top: -1.5em;
+}
+.timeline-border .event:nth-child(2n) {
+  float: left;
+  clear: left;
+}
+@media all and (min-width: 650px) {
+  .timeline-border .event:after {
+    display: block;
+    content: ' ';
+    height: 6px;
+    width: 6px;
+    background: #9d9d9d;
+    border-radius: 50%;
+    position: absolute;
+    left: -5%;
+    top: 1.5em;
+    border: 2px solid white;
+  }
+}
+.timeline-border .event:nth-child(2n):after {
+  right: -5%;
+  /* reset the standard declaration I defined before*/
+  left: auto;
+}
+.timeline-border .event i:after {
+  /*
+  position:relative;
+  display: block;
+  height: 0px;
+  width: 0px;
+  content: ' ';
+  
+  border-top: 10px solid rgba(0,0,0,0);
+  border-bottom: 10px solid rgba(0,0,0,0);
+  border-right: 10px solid $bg-entry;
+  border-left: 0px;
+  right: 9%;
+  */
+}
+.timeline-border .event:nth-child(2n) i:after {
+  /*
+  border-left: 10px solid $bg-entry;
+  border-right: 0;
+  left: 105.7%;
+  top: 0px;
+  */
+}
+
+/* v1.0 */
+/* v1.0 */
+/* v1.0 */
+/* v1.0 */
+/* v1.0 */
+.timeline {
+  margin: 0 auto;
+  max-width: 600px;
+  overflow: hidden;
+  background: #ddd;
+  position: relative;
+  /* 
+    elements 1,(2),3,(4), etc.
+    elements in brackets inherit these properties, some are overridden below (2n)
+    beginning at 0
+  */
+}
+.timeline .line {
+  position: absolute;
+  border: 1px solid #bbb;
+  height: 100%;
+  left: 49.9%;
+  box-sizing: border-box;
+  z-index: 5;
+}
+.timeline .year {
+  position: relative;
+  float: left;
+  margin: 75px auto 25px;
+  text-align: center;
+  width: 100%;
+  z-index: 10;
+}
+.timeline .year span {
+  margin: 0 auto;
+  width: 200px;
+  border-radius: 50px;
+  background: #eee;
+  display: block;
+  font-size: 3em;
+}
+.timeline .event {
+  position: relative;
+  text-align: center;
+  float: right;
+  clear: right;
+  width: 45%;
+  margin: 10px 2.5%;
+  /* I want 40%, and not 45%! */
+  box-sizing: border-box;
+  list-style-type: none;
+  display: block;
+  padding: 1em;
+  color: #222;
+  background: #eee;
+  text-decoration: none;
+  /* set the first item a little bit off */
+}
+.timeline .event:first-of-type {
+  margin-top: 3em;
+}
+.timeline .event:nth-child(2n) {
+  float: left;
+  clear: left;
+}
+.timeline .event:after {
+  display: block;
+  content: ' ';
+  height: 5px;
+  width: 5px;
+  background: #bbb;
+  border-radius: 50%;
+  position: absolute;
+  left: -6.4%;
+  top: 1.5em;
+  border: 1px solid white;
+}
+.timeline .event:nth-child(2n):after {
+  right: -7.1%;
+  /* reset the standard declaration I defined before*/
+  left: auto;
+}
+.timeline .event i:after {
+  position: relative;
+  display: block;
+  height: 0px;
+  width: 0px;
+  content: ' ';
+  border-top: 10px solid rgba(0, 0, 0, 0);
+  /* border-right: 100px solid #AAC32B; */
+  border-bottom: 10px solid rgba(0, 0, 0, 0);
+  border-right: 10px solid #eee;
+  border-left: 0px;
+  right: 10.9%;
+}
+.timeline .event:nth-child(2n) i:after {
+  border-top: 10px solid rgba(0, 0, 0, 0);
+  /* border-right: 100px solid #AAC32B; */
+  border-bottom: 10px solid rgba(0, 0, 0, 0);
+  border-left: 10px solid #eee;
+  border-right: 0;
+  left: 106.9%;
+  top: 0px;
+}
+
+.padd {
+  display: block;
+  padding: 10px;
+}

@@ -27,14 +27,14 @@ twitter :
 _root:
   summary_lines: 20
   rss:
-    enable: false
+    enable: true
   paginator:
     enable: false
 
 posts:
   sort: ["date", "desc"]
   permalink: "/:categories/:title/"
-  summary_lines: 20
+  summary_lines: 10
   latest: 5
   rss:
     enable: true
@@ -74,16 +74,16 @@ widgets :
   analytics :
     use : google
     # -- config for google --
-    tracking_id : 'UA-123-12'
+    tracking_id : 'UA-41569408-1'
 
     # -- config for getclicky  --
-    # site_id :
+    # site_id : 100620144
 
   comments :
     use : disqus
     enable : true
     # -- config for disqus --
-    short_name : jekyllbootstrap # Change This!
+    short_name : ghsite 
 
     # -- config for livefyre --
     # site_id : 123
@@ -97,5 +97,13 @@ widgets :
     # width: 580
     # colorscheme: light
 
-  google_prettify :
+  syntax :  
+    use : prettify
+    cdn : false
     linenums : true
+
+  math :
+    use : mathjax
+
+  line :
+    use : timeline
