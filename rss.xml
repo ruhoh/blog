@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Joseph Pan's Blog</title>
+    <link>http://sample.com</link>
+    <pubDate>2013-06-07 19:14:53 +0000</pubDate>
+    <item>
+      <title>EvoGeo Video</title>
+      <link>http://sample.com/projects/evogeo-video</link>
+      <pubDate>2013-01-20</pubDate>
+      <description>&lt;p&gt;&#x5B66;&#x671F;&#x672B;&#xFF0C;&#x4E5F;&#x662F;Siggraph&#x7684;Deadline&#x3002;&#x4F5C;&#x4E3A;VCC&#x4E00;&#x5458;&#xFF0C;&#x6211;&#x5728;&#x6700;&#x540E;&#x4E00;&#x661F;&#x671F;&#x201C;&#x4E34;&#x5371;&#x53D7;&#x547D;&#x201D;&#xFF0C;&#x8D1F;&#x8D23;&#x5E2E;&#x626C;&#x5F66; &#x7684;&#x4E00;&#x4E2A;&#x8BFE;&#x9898;&#x5236;&#x4F5C;Video&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x505A;Video&#x5E76;&#x4E0D;&#x662F;&#x7B2C;&#x4E00;&#x6B21;&#xFF0C;&#x4EE5;&#x524D;&#x5C31;&#x7528;&#x8FC7;Flash&#x548C;&#x4F1A;&#x58F0;&#x4F1A;&#x5F71;&#xFF0C;&#x53E6;&#x5916;&#x81EA;&#x8BA4;&#x4E3A;&#x5BF9;Adobe Audition&#x3001; Photoshop&#x3001;Fireworks&#x7B49;&#x8F6F;&#x4EF6;&#x638C;&#x63E1;&#x7684;&#x4E0D;&#x9519;&#x3002;&#x6240;&#x4EE5;&#x6211;&#x5C31;&#x4FE1;&#x5FC3;&#x6EE1;&#x6EE1;&#x7684;&#x7B54;&#x5E94;&#x4E0B;&#x6765;&#x3002;&#x4E3A;&#x4E86;&#x505A;&#x51FA;&#x66F4;&#x52A0;&#x4E13; &#x4E1A;&#x7684;Video&#xFF0C;&#x6211;&#x51B3;&#x5B9A;&#x4F7F;&#x7528;Premiere&#x3002;&#x82B1;&#x4E86;&#x4E00;&#x5929;&#x770B;&#x4E86;&#x4E00;&#x4E9B;Premiere&#x7684;&#x7528;&#x6CD5;&#xFF0C;&#x6B21;&#x65E5;&#x5F00;&#x59CB;&#x52A8;&#x5DE5;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x5728;&#x5236;&#x4F5C;&#x89C6;&#x9891;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x626C;&#x5F66;&#x4ED6;&#x4EEC;&#x7684;&#x9879;&#x76EE;&#x4E5F;&#x5728;&#x51B2;&#x523A;&#xFF0C;&#x4E00;&#x5F00;&#x59CB;&#x4EC0;&#x4E48;&#x7ED3;&#x679C;&#x90FD;&#x6CA1;&#x6709;&#x3002;&#x201C;&#x5DE7;&#x5987;&#x96BE;&#x4E3A;&#x65E0;&#x7C73;&#x4E4B; &#x708A;&#x201D;&#xFF0C;&#x6CA1;&#x6709;&#x7D20;&#x6750;&#x5F88;&#x591A;&#x5730;&#x65B9;&#x5C31;&#x53EA;&#x80FD;&#x5148;&#x7528;&#x7A7A;&#x767D;&#x4EE3;&#x66FF;&#x3002;&#x4E3A;&#x4E86;&#x65B9;&#x4FBF;&#x4EA4;&#x6D41;&#xFF0C;&#x6211;&#x4EEC;&#x7684;&#x7D20;&#x6750;&#x7EDF;&#x4E00;&#x653E;&#x5728; Dropbox&#x4E0B;&#x5171;&#x4EAB;&#x3002;&#x5029;&#x59D0;&#x5148;&#x7ED9;&#x4E86;&#x4E00;&#x4EFD;PPT&#x683C;&#x5F0F;&#x7684;script&#xFF0C;&#x628A;&#x5927;&#x6982;&#x7684;&#x6D41;&#x7A0B;&#x548C;&#x65C1;&#x767D;&#x90FD;&#x5199;&#x8FDB;&#x53BB;&#x3002;&#x4E8E;&#x662F;&#x6211; &#x5C31;&#x5728;Premiere&#x5DE5;&#x7A0B;&#x91CC;&#x5206;&#x522B;&#x7ED9;&#x6BCF;&#x4E00;&#x9875;slide&#x90FD;&#x5EFA;&#x4E00;&#x4E2A;&#x5E8F;&#x5217;&#xFF0C;&#x7136;&#x540E;&#x628A;&#x6BCF;&#x4E2A;&#x5E8F;&#x5217;&#x90FD;&#x62D6;&#x8FDB;&#x5DE5;&#x7A0B;&#x91CC;&#x3002;&#x8FD9;&#x6837; &#x5982;&#x679C;script&#x91CC;&#x67D0;&#x4E00;&#x9875;&#x6709;&#x4E86;&#x65B0;&#x7684;&#x7D20;&#x6750;&#x6216;&#x8005;&#x9700;&#x8981;&#x8FDB;&#x884C;&#x4FEE;&#x6539;&#xFF0C;&#x6211;&#x80FD;&#x591F;&#x53CA;&#x65F6;&#x5B9A;&#x4F4D;&#x3002;&#x53E6;&#x5916;&#xFF0C;&#x7531;&#x4E8E;&#x65C1;&#x767D;&#x8FD8; &#x6CA1;&#x5F55;&#x597D;&#xFF0C;&#x4E3A;&#x4E86;&#x65B9;&#x4FBF;&#x786E;&#x5B9A;&#x67D0;&#x4E2A;&#x5185;&#x5BB9;&#x6301;&#x7EED;&#x7684;&#x65F6;&#x95F4;&#xFF0C;&#x6211;&#x4F7F;&#x7528;&#x4E86; &lt;a href="http://www.ivona.com/us/"&gt;TTS&#x8F6F;&#x4EF6;&lt;/a&gt; &#x5148;&#x5F55;&#x5236;&#x4E00;&#x4EFD;&#x4E34;&#x65F6;&#x7684;&#x65C1;&#x767D;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x8FD9;&#x6837;&#xFF0C;&#x6BCF;&#x6B21;&#x626C;&#x5F66;&#x4ED6;&#x4EEC;&#x6E32;&#x67D3;&#x51FA;&#x65B0;&#x7684;&#x7ED3;&#x679C;&#xFF0C;&#x6211;&#x5C31;&#x628A;&#x5B83;&#x4EEC;&#x5BFC;&#x5165;&#x6210;&#x4E00;&#x4E2A;&#x5E8F;&#x5217;&#xFF0C;&#x7136;&#x540E;&#x601D;&#x8003;&#x600E;&#x4E48;&#x5C06;&#x5B83;&#x4EEC;&#x6392; &#x5217;&#x7EC4;&#x5408;&#xFF0C;&#x5F97;&#x5230;&#x4E00;&#x4E2A;&#x6700;&#x4F73;&#x7684;&#x6548;&#x679C;&#x3002;&#x9648;&#x8001;&#x5E08;&#x548C;&#x5029;&#x59D0;&#x4F1A;&#x7ECF;&#x5E38;&#x8FC7;&#x6765;&#x8BA8;&#x8BBA;&#xFF0C;&#x505A;Graphics&#x7684;&#x4EBA;&#x90FD;&#x662F;&#x5B8C;&#x7F8E;&#x4E3B; &#x4E49;&#x8005;&#xFF0C;&#x6211;&#x4EEC;&#x4F1A;&#x5C31;&#x4E00;&#x4E2A;&#x5C0F;&#x7EC6;&#x8282;&#x4E0A;&#x8BA8;&#x8BBA;&#x4E0A;&#x534A;&#x5929;&#xFF0C;&#x7136;&#x540E;&#x5F97;&#x5230;&#x4E00;&#x4E2A;&#x53CC;&#x65B9;&#x90FD;&#x5F88;&#x6EE1;&#x610F;&#x7684;&#x65B9;&#x6848;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x8BF4;&#x8BF4;&#x6211;&#x6700;&#x6EE1;&#x610F;&#x7684;&#x51E0;&#x4E2A;&#x5730;&#x65B9;&#x3002;&#x5728;setup&#x7247;&#x6BB5;&#xFF0C;&#x539F;&#x5148;&#x7ED9;&#x7684;&#x7D20;&#x6750;&#x662F;&#x4E00;&#x5F20;&#x9759;&#x6001;&#x7684;&#x5E26;&#x6587;&#x5B57;&#x56FE;&#x7247;&#xFF0C;&#x7528;&#x6765;&#x8BF4;&#x660E; acquisition&#x7684;&#x7EC4;&#x6210;&#x90E8;&#x5206;&#xFF0C;&#x4F46;&#x653E;&#x5230;&#x89C6;&#x9891;&#x4E4B;&#x540E;&#x6587;&#x5B57;&#x5C31;&#x53D8;&#x5F97;&#x5F88;&#x6A21;&#x7CCA;&#x3002;&#x6211;&#x5C06;&#x90A3;&#x5F20;&#x56FE;&#x7247;&#x7684;&#x6587;&#x5B57;&#x53BB;&#x6389;&#xFF0C;&#x6539; &#x4E3A;&#x7528;Camtasia&#x52A0;&#x5165;&#x51E0;&#x4E2A;&#x753B;&#x5708;&#x7684;&#x7279;&#x6548;&#xFF0C;&#x6536;&#x5230;&#x4E0D;&#x9519;&#x7684;&#x6548;&#x679C;&#x3002;&#x5728;forward &amp;amp; backward&#x7247;&#x6BB5;&#xFF0C;&#x6211;&#x7528; Flash&#x505A;&#x4E86;&#x4E00;&#x6761;&#x8FDB;&#x5EA6;&#x6761;&#x3002;&#x53E6;&#x5916;&#xFF0C;&#x4E3A;&#x4E86;&#x8BA9;event&#x8FD9;&#x4E2A;term&#x66F4;&#x597D;&#x7406;&#x89E3;&#xFF0C;&#x6211;&#x627E;&#x4E86;&#x4E24;&#x4E2A;icon&#x5206;&#x522B;&#x8868;&#x793A; bifurcation&#xFF08;&#x5206;&#x679D;&#xFF09;&#x3001;budding&#xFF08;&#x957F;&#x53F6;&#xFF09;&#xFF0C;&#x7136;&#x540E;&#x7528;illustrator&#x5C06;budding&#x90A3;&#x4E2A;icon&#x8FDB;&#x884C;&#x4E00;&#x70B9; &#x4FEE;&#x6539;&#xFF0C;&#x5F97;&#x5230;&#x4E00;&#x4E2A;decay&#xFF08;&#x67AF;&#x840E;&#xFF09;&#x7684;icon&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x6700;&#x7D27;&#x5F20;&#x7684;&#x65F6;&#x523B;&#x83AB;&#x8FC7;&#x4E8E;&#x5728;deadline&#x51B2;&#x523A;&#x7684;&#x6700;&#x540E;&#x4E24;&#x5C0F;&#x65F6;&#x3002;&#x90A3;&#x4E2A;&#x65F6;&#x5019;&#x626C;&#x5F66;&#x6700;&#x540E;&#x4E00;&#x7EC4;&#x7ED3;&#x679C;Dancing Bean&#x7EC8;&#x4E8E;&#x5B8C;&#x6210;&#x3002;&#x5269;&#x4E0B;&#x7684;&#x5DE5;&#x4F5C;&#x5C31;&#x5168;&#x90E8;&#x538B;&#x5728;&#x6211;&#x8EAB;&#x4E0A;&#x4E86;&lt;code&gt;&amp;gt;_&amp;lt;&lt;/code&gt;&#x3002;&#x52A0;Dancing Bean&#x7684;&#x56FE;&#x7247;&#x672C;&#x8EAB;&#x6CA1;&#x591A;&#x5C11;&#x96BE; &#x5EA6;&#xFF0C;&#x4F46;&#x6BD4;&#x8F83;&#x9EBB;&#x70E6;&#x7684;&#x662F;&#x53F3;&#x4E0B;&#x89D2;&#x7684;&#x65F6;&#x95F4;&#x6807;&#x7B7E;&#x3002;&#x7531;&#x4E8E;&#x65F6;&#x95F4;&#x6807;&#x7B7E;&#x5176;&#x5B9E;&#x662F;&#x5728;Pov-Ray&#x4E0A;&#x6E32;&#x67D3;&#x51FA;&#x6765;&#x7684;&#x56FE;&#x7247;&#xFF0C; &#x6BCF;&#x5F20;&#x56FE;&#x90FD;&#x6709;1596 x 945&#x7684;&#x5927;&#x5C0F;&#xFF0C;&#x5982;&#x679C;&#x76F4;&#x63A5;&#x653E;&#x5230;&#x89C6;&#x9891;&#x4E2D;&#xFF0C;&#x9700;&#x8981;&#x8FDB;&#x884C;&#x5927;&#x5E45;&#x7F29;&#x5C0F;&#xFF0C;&#x770B;&#x8D77;&#x6765;&#x5F88;&#x6A21;&#x7CCA;&#x3002; &#x6211;&#x901A;&#x5E38;&#x662F;&#x4F7F;&#x7528;imagemagick&#x547D;&#x4EE4;&#x6279;&#x91CF;&#x5BFC;&#x51FA;&#x6210;319 x 189&#x7684;thumbnail&#xFF0C;&#x7136;&#x540E;&#x518D;&#x5BFC;&#x5165;Premiere&#x5DE5;&#x7A0B;&#x3002; &#x4F46;Dancing Bean&#x8FD9;&#x7EC4;&#x7ED3;&#x679C;&#x6570;&#x636E;&#x91CF;&#x975E;&#x5E38;&#x5927;&#xFF0C;&#x603B;&#x5171;&#x7684;&#x65F6;&#x95F4;&#x6807;&#x7B7E;&#x56FE;&#x6709;1000&#x591A;&#x5F20;&#xFF0C;&#x6211;&#x4E00;&#x6572;&#x547D;&#x4EE4;&#x5C31;&#x6B7B;&#x673A;&#x3002; &#x903C;&#x5F97;&#x6211;&#x91CD;&#x542F;&#x4E86;&#x4E24;&#x6B21;&#x3002;&#x6BCF;&#x6B21;&#x91CD;&#x542F;&#x90FD;&#x6D6A;&#x8D39;&#x4E86;&#x5F88;&#x591A;&#x65F6;&#x95F4;&#x3002;&#x6700;&#x540E;&#x4E0D;&#x5F97;&#x4E0D;&#x8003;&#x8651;&#x7528;&#x5176;&#x4ED6;&#x5DE5;&#x5177;&#x6765;&#x8F6C;&#x6362;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x53E6;&#x5916;&#x6211;&#x8FD8;&#x5192;&#x4E86;&#x4E00;&#x4E2A;&#x9669;&#xFF1A;&#x4E3A;&#x4E86;&#x8BA9;&#x6BCF;&#x6B21;&#x51FA;&#x73B0;&#x7684;event&#x66F4;&#x5BB9;&#x6613;&#x88AB;&#x53D1;&#x73B0;&#xFF0C;&#x6211;&#x63D0;&#x51FA;&#x7528;spot light&#x7684;&#x65B9;&#x6CD5;&#x9AD8; &#x4EAE;event&#x7684;&#x51FA;&#x73B0;&#x5730;&#x65B9;&#x3002;&#x4F46;&#x8FD9;&#x4E2A;risk&#x5F88;&#x60AC;&#xFF0C;&#x9996;&#x5148;&#x65F6;&#x95F4;&#x53EA;&#x6709;&#x4E24;&#x4E2A;&#x5C0F;&#x65F6;&#x4E0D;&#x5230;&#xFF0C;&#x800C;&#x4E14;Premiere&#x672C;&#x8EAB;&#x4E5F;&#x6CA1; &#x6709;&#x8FD9;&#x7C7B;&#x7684;effect&#x3002;&#x60C5;&#x6025;&#x4E4B;&#x4E0B;&#x591A;&#x4E8F;&#x51E4;&#x59D0;&#x5E2E;&#x4E86;&#x5927;&#x5FD9;&#xFF0C;&#x6211;&#x8DDF;&#x5979;&#x8BB2;&#x4E86;&#x4E00;&#x4E0B;&#x8981;&#x5B9E;&#x73B0;&#x7684;&#x4E1C;&#x897F;&#xFF0C;&#x5979;&#x5F88;&#x5FEB;&#x5C31;&#x628A; &#x5341;&#x6765;&#x5F20;&#x56FE;&#x5904;&#x7406;&#x597D;&#x4E86;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x79BB;Deadline&#x524D;&#x7684;&#x6700;&#x540E;&#x4E8C;&#x5341;&#x5206;&#x949F;&#xFF0C;&#x89C6;&#x9891;&#x7EC8;&#x4E8E;&#x6E32;&#x67D3;&#x5B8C;&#x6210;&#x3002;&#x4F46;&#x64AD;&#x653E;&#x7684;&#x65F6;&#x5019;&#x7A81;&#x7136;&#x51FA;&#x73B0;&#x58F0;&#x753B;&#x4E0D;&#x540C;&#x6B65;&#x7684;&#x73B0; &#x8C61;&#xFF0C;&#x7740;&#x5B9E;&#x8BA9;&#x6211;&#x5192;&#x4E86;&#x4E00;&#x628A;&#x51B7;&#x6C57;&#xFF01;&#x4F46;&#x6211;&#x4F30;&#x8BA1;&#x662F;&#x6211;&#x7684;&#x672C;&#x672C;&#x88AB;&#x6211;&#x5F00;N&#x4E2A;&#x5403;&#x5185;&#x5B58;&#x7684;&#x8F6F;&#x4EF6;&#x8FDE;&#x7EED;&#x5DE5;&#x4F5C;&#x4E8C;&#x5341;&#x51E0;&#x4E2A; &#x5C0F;&#x65F6;&#x6298;&#x817E;&#x574F;&#x4E86;&#x3002;&#x540E;&#x6765;&#x5230;&#x5176;&#x4ED6;&#x673A;&#x5B50;&#x6D4B;&#x4E86;&#x4E00;&#x4E0B;&#xFF0C;&#x53D1;&#x73B0;&#x6CA1;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x3002;&#x6211;&#x7684;&#x5DE5;&#x4F5C;&#x7EC8;&#x4E8E;&#x6709;&#x60CA;&#x65E0;&#x9669;&#x7684;&#x987A;&#x5229; &#x8FBE;&#x6210;&#x4E86;&#x3002;&#x611F;&#x89C9;&#x5C31;&#x50CF;&#x5510;&#x50E7;&#x897F;&#x5929;&#x53D6;&#x7ECF;&#xFF0C;&#x5386;&#x7ECF;&#x4E5D;&#x4E5D;&#x516B;&#x5341;&#x96BE;&#x53D6;&#x5F97;&#x771F;&#x7ECF;&#x540E;&#x8FD8;&#x5F97;&#x906D;&#x53D7;&#x901A;&#x5929;&#x6CB3;&#x8001;&#x9F0D;&#x6253;&#x6E7F;&#x7ECF;&#x4E66;&#xFF0C; &#x8FBE;&#x6210;&#x4E5D;&#x4E5D;&#x516B;&#x5341;&#x4E00;&#x96BE;&#xFF0C;&#x7EC8;&#x4E8E;&#x5C06;&#x7ECF;&#x4E66;&#x5E26;&#x56DE;&#x4E1C;&#x571F;&#x5927;&#x5510;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x5B8C;&#x6210;video&#x540E;&#xFF0C;&#x626C;&#x5F66;&#x5C31;&#x5C06;paper&#x548C;&#x5B83;&#x4E00;&#x8D77;&#x63D0;&#x4EA4;&#x4E86;&#x4E0A;&#x53BB;&#x3002;&#x6211;&#x4EEC;&#x5728;&#x51CC;&#x6668;&#x516D;&#x70B9;&#x7684;&#x65F6;&#x523B;&#x7EC8;&#x4E8E;&#x89E3;&#x653E;&#xFF0C;&#x5927;&#x4F19;&#x4E00;&#x8D77;&#x5206;&#x4EAB;&#x4E86;&#x626C;&#x5F66;&#x7684;&#x592B;&#x4EBA;&#x9001;&#x6765;&#x7684;&#x86CB;&#x7CD5;&#x3002;&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img src="http://josephpan.net/blog/wp-content/uploads/2013/01/IMG_4380-1024x682.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;&#x56DE;&#x5BBF;&#x820D;&#x540E;&#x5012;&#x5E8A;&#x5C31;&#x7761;&#xFF0C;&#x56E0;&#x4E3A;&#x592A;&#x5174;&#x594B;&#xFF0C;&#x6240;&#x4EE5;&#x53EA;&#x7761;&#x7740;&#x4E86;&#x4E09;&#x4E2A;&#x5C0F;&#x65F6;&#x3002;&#x9192;&#x6765;&#x4E4B;&#x540E;&#x5C45;&#x7136;&#x6D41;&#x9F3B;&#x8840;&#x4E86;&#x3002;&#x201C;&#x5F00;&#x95E8;&#x7EA2;&#x201D;&#x4E5F;&#x8BB8;&#x662F;&#x4EF6;&#x597D;&#x4E8B;&#xFF0C;&#x9884;&#x793A;&#x7740;&#x6211;&#x4EEC;&#x6240;&#x505A;&#x7684;&#x5DE5;&#x4F5C;&#x4F1A;&#x8FCE;&#x6765;&#x56DE;&#x62A5;&#xFF01;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://josephpan.net/blog/wp-content/uploads/2013/01/IMG_4394-1024x682.jpg" /&gt;]&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Son of Obsidian Theme for Emacs</title>
+      <link>http://sample.com/tools/son-of-obsidian-theme-for-emacs</link>
+      <pubDate>2013-01-05</pubDate>
+      <description>&lt;p&gt;Visual Studio&#x4E0B;&#x6709;&#x4E00;&#x4E2A;&#x975E;&#x5E38;&#x6D41;&#x884C;&#x7684;&#x4E3B;&#x9898;&#xFF0C;&#x53EB;&#x505A; Son of Obsidian&#xFF08;&#x9ED1;&#x66DC;&#x77F3;&#x4E4B;&#x5B50;&#xFF09;&#xFF0C;&#x5982;&#x679C;&#x4F60;&#x6CA1;&#x89C1;&#x8FC7;&#xFF0C;&#x53EF;&#x4EE5;&#x5230; &lt;a href="http://studiostyl.es/schemes/son-of-obsidian"&gt;&#x8FD9;&#x4E2A;&#x4E0B;&#x8F7D;&#x9875;&#x9762;&lt;/a&gt; &#x91CC;&#x4E00;&#x7779;&#x5E90;&#x5C71;&#x771F;&#x9762;&#x76EE;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x7528;&#x4E86;&#x4E00;&#x6BB5;&#x65F6;&#x95F4;&#x4E4B;&#x540E;&#xFF0C;&#x6211;&#x4E0D;&#x7981;&#x4E5F;&#x5F00;&#x59CB;&#x89C9;&#x5F97; Emacs &#x4E0B;&#x7684; Black on White &#x4E3B;&#x9898;&#x5B9E;&#x5728;&#x6709;&#x70B9;&#x8001;&#x53E4;&#x8463;&#x4E86;&#xFF0C;&#x4E8E;&#x662F;&#x5C31;&#x8BF7;&#x6559;&#x8C37;&#x6B4C;&#x5927;&#x795E;&#x6709;&#x6CA1;&#x6709;&#x54EA;&#x4F4D;&#x597D;&#x5FC3;&#x4EBA;&#x5C06;&#x5B83; port &#x5230; Emacs &#x4E0B;&#xFF0C;&#x5426;&#x5219;&#x6211;&#x5C31;&#x5F97;&#x81EA;&#x5DF1;&#x5199;&#x4E00;&#x4E2A;&#x4E86;&#x3002;&#x4E00;&#x95EE;&#x4E4B;&#x4E0B;&#xFF0C;&#x679C;&#x7136;&#x5728; &lt;a href="https://github.com/troydm"&gt;&#x8FD9;&#x4E2A;&#x4EBA;&lt;/a&gt; &#x7684; Github &#x4E3B;&#x9875;&#x4E0A;&#x627E;&#x5230;&#x4E86;&#x4E00;&#x4EFD;&#x4E3B;&#x9898;&#x3002;&#x4E8E;&#x662F;&#x6211;&#x5174;&#x594B;&#x5730; clone &#x4E0B;&#x6765;&#xFF0C;&#x81EA;&#x5DF1;&#x4E5F;&#x8FDB;&#x884C;&#x4E00;&#x756A;&#x8C03;&#x6559;&#xFF0C;&#x5C06; Son of Obsidian &#x548C; Black on White &#x4E24;&#x4E2A;&#x4E3B;&#x9898;&#x8FDB;&#x884C;&#x4E86;&#x6574;&#x5408;&#xFF0C; &#x6700;&#x540E;&#x5F97;&#x5230;&#x4E86;&#x4E00;&#x4E2A;&#x6BD4;&#x8F83;&#x6EE1;&#x610F;&#x7684; color theme &#x3002;&#x5148;&#x653E; &lt;a href="/assets/media/figures/emacs-son-of-obsidian.png"&gt;&#x4E3B;&#x9898;&#x622A;&#x56FE;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&#x4E3B;&#x9898;&#x9875;&#x9762;&#xFF1A;&lt;a href="https://github.com/wzpan/emacs-stuff/blob/master/color-theme-sons-of-obsidian.el"&gt;https://github.com/wzpan/emacs-stuff/blob/master/color-theme-sons-of-obsidian.el&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&#x4F7F;&#x7528;&#x65B9;&#x6CD5;&#xFF1A;&#x4E0B;&#x8F7D;&#x5B8C;&#x6210;&#x540E;&#x653E;&#x5230; load-path &#xFF0C;&#x7136;&#x540E;&#x5728;&#x4F60;&#x7684; init &#x6587;&#x4EF6;&#x4E2D;&#x6DFB;&#x52A0;&#x4E0B;&#x9762;&#x51E0;&#x53E5;&#xFF1A;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="sourceCode commonlisp"&gt;&lt;code class="sourceCode commonlisp"&gt;&lt;span class="co"&gt;;; &#x52A0;&#x5165;color-theme&#x63D2;&#x4EF6;&lt;/span&gt;
+(&lt;span class="kw"&gt;require&lt;/span&gt; &amp;#39;color-theme-sons-of-obsidian)
+(color-theme-sons-of-obsidian)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;enjoy it&#xFF01;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Emacs &#x7F16;&#x8BD1; Visual Studio (C++) &#x5DE5;&#x7A0B;&#x9879;&#x76EE;</title>
+      <link>http://sample.com/tools/emacs-%E7%BC%96%E8%AF%91-visual-studio-c%2B%2B-%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE</link>
+      <pubDate>2012-12-31</pubDate>
+      <description>&lt;p&gt;&#x5728; Windows &#x5F00;&#x53D1;&#x6BD4;&#x8F83;&#x5927;&#x578B;&#x7684; C/C++ &#x9879;&#x76EE;&#xFF0C;&#x5F80;&#x5F80;&#x8FD8;&#x662F;&#x5F97;&#x501F;&#x52A9;&#x5FAE;&#x8F6F;&#x7684; Visual Studio (C++)&#xFF0C;&#x4F46;&#x5BF9;&#x4E8E;&#x91CD;&#x5EA6; Emacs &#x4F7F;&#x7528;&#x8005;&#xFF0C;&#x79BB;&#x5F00;&#x4E86;&#x7528;&#x8D77; VC &#x6765;&#x603B;&#x662F;&#x5404;&#x79CD;&#x8E69;&#x811A;&#x3002;&#x5173;&#x4E8E;&#x5982;&#x4F55;&#x5728; Emacs &#x4E2D;&#x642D;&#x5EFA; VC &#x7684;&#x5F00;&#x53D1;&#x73AF;&#x5883;&#xFF0C;&lt;a href="http://emacser.com/author/fangzhzh/"&gt;fangzhzh&lt;/a&gt; &#x7684;&#x4E00;&#x7BC7;&#x535A;&#x6587; &#x300A;&lt;a href="http://emacser.com/dev-vc.htm"&gt;Emacs &#x4E2D;&#x5F00;&#x53D1; VC &#x7A0B;&#x5E8F;&lt;/a&gt;&#x300B; &#x5DF2;&#x7ECF;&#x505A;&#x4E86;&#x6BD4;&#x8F83;&#x597D;&#x7684;&#x8BA8;&#x8BBA;&#x3002;&#x552F;&#x4E00;&#x4E0D;&#x8DB3;&#x7684;&#x5730;&#x65B9;&#x662F;&#x5BF9; Emacs &#x8C03;&#x7528; VC &#x7F16;&#x8BD1;&#x7F3A;&#x4E4F;&#x66F4;&#x6DF1;&#x5165;&#x7684;&#x63A2;&#x8BA8;&#x3002;&#x7F16;&#x8BD1; VC &#x57FA;&#x672C;&#x4E0A;&#x8FD8;&#x662F;&#x8981;&#x9760;&#x5FAE;&#x8F6F;&#x81EA;&#x5BB6;&#x7684;&#x5DE5;&#x5177;&#xFF0C;&#x7ECF;&#x8FC7;&#x6211;&#x7684;&#x6478;&#x7D22;&#xFF0C;&#x4E00;&#x5171;&#x6709;&#x4E09;&#x79CD;&#x4E0D;&#x540C;&#x7684;&#x65B9;&#x6848;&#xFF0C;&#x9488;&#x5BF9;&#x4E0D;&#x540C;&#x7684;&#x9700;&#x8981;&#xFF0C;&#x7528;&#x6237;&#x53EF;&#x4EE5;&#x81EA;&#x884C;&#x9009;&#x62E9;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x603B;&#x4F53;&#x8BF4;&#x6765;&#xFF0C;&#x8FD9;&#x4E09;&#x79CD;&#x65B9;&#x6848;&#x5404;&#x81EA;&#x7684;&#x7279;&#x70B9;&#x6BD4;&#x8F83;&#x5982;&#x4E0B;&#xFF1A;&lt;/p&gt;
+&lt;table class="table table-striped"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class="right" scope="col"&gt;
+&#x5E8F;&#x53F7;
+&lt;/th&gt;
+&lt;th class="left" scope="col"&gt;
+&#x8C03;&#x7528;&#x5DE5;&#x5177;
+&lt;/th&gt;
+&lt;th class="left" scope="col"&gt;
+&#x8BFB;&#x53D6;&#x6587;&#x4EF6;&#x683C;&#x5F0F;
+&lt;/th&gt;
+&lt;th class="left" scope="col"&gt;
+&#x7279;&#x70B9;
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="right"&gt;
+1
+&lt;/td&gt;
+&lt;td class="left"&gt;
+envdev
+&lt;/td&gt;
+&lt;td class="left"&gt;
+*.sln
+&lt;/td&gt;
+&lt;td class="left"&gt;
+&#x53EF;&#x4EE5;&#x7F16;&#x8BD1;&#x6574;&#x4E2A;VS&#x7684;&#x89E3;&#x51B3;&#x65B9;&#x6848;&#x3002;&#x7F3A;&#x70B9;&#x5728;&#x4E8E;&#x7F16;&#x8BD1;&#x540E;&#x6CA1;&#x6709;&#x7ED9;&#x51FA;&#x9519;&#x8BEF;&#x63D0;&#x793A;&#x3002;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="right"&gt;
+2
+&lt;/td&gt;
+&lt;td class="left"&gt;
+nmake
+&lt;/td&gt;
+&lt;td class="left"&gt;
+*.mak
+&lt;/td&gt;
+&lt;td class="left"&gt;
+&#x4F7F;&#x7528;&#x5FAE;&#x8F6F;&#x81EA;&#x5BB6;&#x7684; make &#x5DE5;&#x5177;&#x6765;&#x7F16;&#x8BD1;&#x5355;&#x4E2A;&#x5DE5;&#x7A0B;&#x3002;&#x7F3A;&#x70B9;&#x5728;&#x4E8E;&#x751F;&#x6210; *.mak &#x6587;&#x4EF6;&#x6BD4;&#x8F83;&#x9EBB;&#x70E6;&#x3002;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="right"&gt;
+3
+&lt;/td&gt;
+&lt;td class="left"&gt;
+msdev
+&lt;/td&gt;
+&lt;td class="left"&gt;
+*.dsw
+&lt;/td&gt;
+&lt;td class="left"&gt;
+VC 6.0 &#x63D0;&#x4F9B;&#x7684;&#x5355;&#x4E2A;&#x5DE5;&#x7A0B;&#x7F16;&#x8BD1;&#x5DE5;&#x5177;&#x3002;&#x5728;VS 2005&#x4E4B;&#x540E;&#x5C31;&#x88AB; envdev &#x53D6;&#x4EE3;&#x4E86;&#x3002;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&#x73B0;&#x5728;&#x5C31;&#x8BA9;&#x6211;&#x4EEC;&#x6765;&#x6DF1;&#x5165;&#x63A2;&#x8BA8;&#x4E00;&#x4E0B;&#x5982;&#x4F55;&#x5728; Emacs &#x4E2D;&#x7F16;&#x8BD1; Visual Studio (C++) &#x7684;&#x9879;&#x76EE;&#x3002;&lt;/p&gt;
+&lt;h2 id="&#x65B9;&#x6848;&#x4E00;envdev-.sln"&gt;1 &#x65B9;&#x6848;&#x4E00;&#xFF1A;envdev + .sln&lt;/h2&gt;
+&lt;p&gt;&#x5728;Visual Studio&#x4E2D;&#xFF0C;&#x53EF;&#x4EE5;&#x628A;&#x6240;&#x6709;&#x7684;&#x9879;&#x76EE;&#x770B;&#x4F5C;&#x4E00;&#x4E2A;&#x89E3;&#x51B3;&#x65B9;&#x6848;&#xFF0C;&#x8FD9;&#x4E2A;&#x89E3;&#x51B3;&#x65B9;&#x6848;&#x5C31;&#x7528; *.sln &#x6587;&#x4EF6;&#x6765;&#x8BB0;&#x5F55;&#xFF0C;&#x5E76;&#x901A;&#x8FC7; devenv &#x5DE5;&#x5177;&#x6765;&#x8BFB;&#x53D6;&#x3001;&#x5206;&#x6790;&#x548C;&#x7F16;&#x8BD1;&#x3002;&#x5B83;&#x4F4D;&#x4E8E;VS&#x76EE;&#x5F55;&#x4E0B;&#x7684; &lt;code&gt;Common7IDE&lt;/code&gt; &#x76EE;&#x5F55;&#x4E2D;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x4E3A;&#x4E86;&#x65B9;&#x4FBF;&#x76F4;&#x63A5;&#x5728;Emacs&#x4E0B;&#x8C03;&#x7528;envdev&#xFF0C;&#x53EF;&#x4EE5;&#x5148;&#x628A;devenv&#x6240;&#x5728;&#x7684;&#x76EE;&#x5F55;&#x52A0;&#x8FDB;&#x7CFB;&#x7EDF;&#x73AF;&#x5883;&#x53D8;&#x91CF;&#x3002;&#x4F8B;&#x5982;&#xFF0C;&#x6211;&#x7684;devenv&#x6240;&#x5728;&#x7684;&#x76EE;&#x5F55;&#x4E3A;&#x201C;D:Program FilesMicrosoft Visual Studio 9.0Common7IDE&#x201D;&#xFF0C;&#x5219;&#x53EF;&#x4EE5;&#x5C06;&#x8BE5;&#x8DEF;&#x5F84;&#x6DFB;&#x52A0;&#x5230;PATH&#x73AF;&#x5883;&#x53D8;&#x91CF;&#x4E2D;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x5B8C;&#x6210;&#x540E;&#xFF0C;&#x6253;&#x5F00;cmd&#xFF0C;&#x6267;&#x884C;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;devenv&lt;/span&gt; -h&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x5C06;&#x53EF;&#x4EE5;&#x770B;&#x5230;&#x5982;&#x4E0B;&#x7684;&#x63D0;&#x793A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;&lt;span class="kw"&gt;e&lt;/span&gt;:josephcodesCV_01CV_&lt;span class="kw"&gt;01&amp;gt;&lt;/span&gt;devenv -h
+&lt;span class="kw"&gt;devenv&lt;/span&gt; -h
+
+&lt;span class="kw"&gt;Microsoft&lt;/span&gt; (R) &lt;span class="kw"&gt;Visual&lt;/span&gt; Studio Version 9.0.30729.1.
+&lt;span class="kw"&gt;Copyright&lt;/span&gt; (C) &lt;span class="kw"&gt;Microsoft&lt;/span&gt; Corp. All rights reserved.
+
+&lt;span class="kw"&gt;Invalid&lt;/span&gt; Command Line. Unknown Switch : h.
+
+&lt;span class="kw"&gt;Use&lt;/span&gt;:
+&lt;span class="kw"&gt;devenv&lt;/span&gt;  [solutionfile &lt;span class="kw"&gt;|&lt;/span&gt; &lt;span class="kw"&gt;projectfile&lt;/span&gt; &lt;span class="kw"&gt;|&lt;/span&gt; &lt;span class="kw"&gt;anyfile.ext&lt;/span&gt;]  [switches]
+
+&lt;span class="kw"&gt;The&lt;/span&gt; first argument for devenv is usually a solution file or project file.
+&lt;span class="kw"&gt;You&lt;/span&gt; can also use any other file as the first argument if you want to have the
+&lt;span class="kw"&gt;file&lt;/span&gt; open automatically in an editor. When you enter a project file, the IDE
+&lt;span class="kw"&gt;looks&lt;/span&gt; for an .sln file with the same base name as the project file in the
+&lt;span class="kw"&gt;parent&lt;/span&gt; directory for the project file. If no such .sln file exists, then the
+&lt;span class="kw"&gt;IDE&lt;/span&gt; looks for a single .sln file that references the project. If no such single
+&lt;span class="kw"&gt;.sln&lt;/span&gt; file exists, then the IDE creates an unsaved solution with a default .sln
+&lt;span class="kw"&gt;file&lt;/span&gt; name that has the same base name as the project file.
+
+&lt;span class="kw"&gt;Command&lt;/span&gt; line builds:
+&lt;span class="kw"&gt;devenv&lt;/span&gt; solutionfile.sln /build [ solutionconfig ] [ /project projectnameorfile [ /projectconfig name ] ]
+&lt;span class="kw"&gt;Available&lt;/span&gt; command line switches:
+
+&lt;span class="kw"&gt;/Build&lt;/span&gt;          Builds the solution or project with the specified solution
+                &lt;span class="kw"&gt;configuration.&lt;/span&gt; For example &lt;span class="st"&gt;&amp;quot;Debug&amp;quot;&lt;/span&gt;. If multiple platforms
+                &lt;span class="kw"&gt;are&lt;/span&gt; possible, the configuration name must be enclosed in quotes
+                &lt;span class="kw"&gt;and&lt;/span&gt; contain platform name. For example: &lt;span class="st"&gt;&amp;quot;Debug|Win32&amp;quot;&lt;/span&gt;.
+&lt;span class="kw"&gt;/Clean&lt;/span&gt;          Deletes build outputs.
+&lt;span class="kw"&gt;/Command&lt;/span&gt;        Starts the IDE and executes the command.
+&lt;span class="kw"&gt;/Deploy&lt;/span&gt;         Builds and then deploys the specified build configuration.
+&lt;span class="kw"&gt;/Edit&lt;/span&gt;           Opens the specified files in a running instance of this
+                &lt;span class="kw"&gt;application.&lt;/span&gt; If there are no running instances, it will
+                &lt;span class="kw"&gt;start&lt;/span&gt; a new instance with a simplified window layout.
+&lt;span class="kw"&gt;/LCID&lt;/span&gt;           Sets the default language in the IDE for the UI.
+&lt;span class="kw"&gt;/Log&lt;/span&gt;            Logs IDE activity to the specified file for troubleshooting.
+&lt;span class="kw"&gt;/NoVSIP&lt;/span&gt;         Disables the VSIP developer&lt;span class="st"&gt;&amp;#39;s license key for VSIP testing.&lt;/span&gt;
+&lt;span class="st"&gt;/Out            Appends the build log to a specified file.&lt;/span&gt;
+&lt;span class="st"&gt;/Project        Specifies the project to build, clean, or deploy.&lt;/span&gt;
+&lt;span class="st"&gt;                Must be used with /Build, /Rebuild, /Clean, or /Deploy.&lt;/span&gt;
+&lt;span class="st"&gt;/ProjectConfig  Overrides the project configuration specified in the solution&lt;/span&gt;
+&lt;span class="st"&gt;                configuration. For example &amp;quot;Debug&amp;quot;. If multiple platforms are&lt;/span&gt;
+&lt;span class="st"&gt;                possible, the configuration name must be enclosed in quotes&lt;/span&gt;
+&lt;span class="st"&gt;                and contain platform name. For example: &amp;quot;Debug|Win32&amp;quot;.&lt;/span&gt;
+&lt;span class="st"&gt;                Must be used with /Project.&lt;/span&gt;
+&lt;span class="st"&gt;/Rebuild        Cleans and then builds the solution or project with the&lt;/span&gt;
+&lt;span class="st"&gt;                specified configuration.&lt;/span&gt;
+&lt;span class="st"&gt;/ResetAddin     Removes commands and command UI associated with the specified Add-in.&lt;/span&gt;
+&lt;span class="st"&gt;/ResetSettings  Restores the IDE&amp;#39;&lt;/span&gt;s default settings, optionally resets to
+                &lt;span class="kw"&gt;the&lt;/span&gt; specified VSSettings file.
+&lt;span class="kw"&gt;/ResetSkipPkgs&lt;/span&gt;  Clears all SkipLoading tags added to VSPackages.
+&lt;span class="kw"&gt;/Run&lt;/span&gt;            Compiles and runs the specified solution.
+&lt;span class="kw"&gt;/RunExit&lt;/span&gt;        Compiles and runs the specified solution then closes the IDE.
+&lt;span class="kw"&gt;/SafeMode&lt;/span&gt;       Launches the IDE in safe mode loading minimal windows.
+&lt;span class="kw"&gt;/Upgrade&lt;/span&gt;        Upgrades the project or the solution and all projects in it.
+                &lt;span class="kw"&gt;A&lt;/span&gt; backup of these files will be created as appropriate.  Please
+                &lt;span class="kw"&gt;see&lt;/span&gt; Help on &lt;span class="st"&gt;&amp;#39;Visual Studio Conversion Wizard&amp;#39;&lt;/span&gt; for more
+                &lt;span class="kw"&gt;information&lt;/span&gt; on the backup process.
+
+&lt;span class="kw"&gt;Product-specific&lt;/span&gt; switches:
+
+&lt;span class="kw"&gt;/debugexe&lt;/span&gt;       Open the specified executable to be debugged. The
+                &lt;span class="kw"&gt;remainder&lt;/span&gt; of the command line is passed to this
+                &lt;span class="kw"&gt;executable&lt;/span&gt; as its arguments.
+&lt;span class="kw"&gt;/useenv&lt;/span&gt;         Use PATH, INCLUDE, LIBPATH, and LIB environment variables
+                &lt;span class="kw"&gt;instead&lt;/span&gt; of IDE paths for VC++ builds.
+
+&lt;span class="kw"&gt;To&lt;/span&gt; attach the debugger from the command line, use:
+        &lt;span class="kw"&gt;VsJITDebugger.exe&lt;/span&gt; -p &lt;span class="kw"&gt;&amp;lt;&lt;/span&gt;pid&lt;span class="kw"&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x6309;&#x7167;&#x63D0;&#x793A;&#xFF0C;&#x5728;VS&#x4E2D;&#x521B;&#x5EFA;&#x4E00;&#x4E2A;sln&#x5DE5;&#x7A0B;&#x6587;&#x4EF6;&#x540E;&#xFF0C;&#x4F7F;&#x7528;devenv&#x7F16;&#x8BD1;&#x7684;&#x547D;&#x4EE4;&#x4E3A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;devenv&lt;/span&gt; solutionfile.sln /build [ solutionconfig ] [ /project projectnameorfile [ /projectconfig name ] ]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x5176;&#x4E2D;&#x7684; &lt;code&gt;/build&lt;/code&gt; &#x7B49;&#x9009;&#x9879;&#x53EF;&#x4EE5;&#x66FF;&#x6362;&#x6210; &lt;code&gt;/run&lt;/code&gt; &#x7B49;&#x5176;&#x4ED6;&#x9009;&#x9879;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x4E4B;&#x540E;&#x53EF;&#x4EE5;&#x914D;&#x7F6E; Emacs&#xFF0C;&#x8BA9;&#x6211;&#x4EEC;&#x5728;&#x6309;&#x4E0B; &lt;code&gt;F7&lt;/code&gt; &#x952E;&#x540E;&#x9009;&#x62E9;&#x5404;&#x79CD;&#x7F16;&#x8BD1;&#x9009;&#x9879;&#x3002;&#x5728;.emacs&#x6587;&#x4EF6;&#x4E2D;&#x52A0;&#x5165;&#x4EE5;&#x4E0B;&#x5185;&#x5BB9;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode commonlisp"&gt;&lt;code class="sourceCode commonlisp"&gt;(&lt;span class="kw"&gt;defun&lt;/span&gt;&lt;span class="fu"&gt; is-devstudio-solution &lt;/span&gt;(filename)
+  (&lt;span class="kw"&gt;or&lt;/span&gt; 
+   (&lt;span class="kw"&gt;null&lt;/span&gt; (file-name-extension filename))
+   (&lt;span class="kw"&gt;string=&lt;/span&gt; (file-name-extension filename) &lt;span class="st"&gt;&amp;quot;sln&amp;quot;&lt;/span&gt;)))
+
+(read-file-name &lt;span class="st"&gt;&amp;quot;Solution: &amp;quot;&lt;/span&gt; &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;t&lt;/span&gt; &lt;span class="kw"&gt;nil&lt;/span&gt; &amp;#39;is-devstudio-solution) 
+
+(&lt;span class="kw"&gt;defun&lt;/span&gt;&lt;span class="fu"&gt; extract-projects &lt;/span&gt;(sln-file)
+  (save-excursion
+    (with-temp-buffer
+      (insert-file sln-file)
+      (goto-char (point-min))
+      (&lt;span class="kw"&gt;let&lt;/span&gt; ((result &lt;span class="kw"&gt;nil&lt;/span&gt;)
+            (index &lt;span class="dv"&gt;0&lt;/span&gt;))
+        (while
+            (re-search-forward
+             &lt;span class="st"&gt;&amp;quot;Project(&amp;quot;&lt;/span&gt;{[-A-Z0&lt;span class="dv"&gt;-9&lt;/span&gt;]&lt;span class="kw"&gt;+&lt;/span&gt;}&lt;span class="st"&gt;&amp;quot;)[        ]+=[    ]+&amp;quot;&lt;/span&gt;([A-Za-z0-9_]&lt;span class="kw"&gt;+&lt;/span&gt;)&lt;span class="st"&gt;&amp;quot;[      ]*,[    ]+&amp;quot;&lt;/span&gt;([A-Za-z0-9_.]&lt;span class="kw"&gt;+&lt;/span&gt;)&lt;span class="st"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+             (point-max)
+         &lt;span class="kw"&gt;t&lt;/span&gt;) 
+    (add-to-list &amp;#39;result (&lt;span class="kw"&gt;cons&lt;/span&gt; (match-string-no-properties &lt;span class="dv"&gt;1&lt;/span&gt;) (match-string-no-properties &lt;span class="dv"&gt;2&lt;/span&gt;))))
+    result))))
+
+(&lt;span class="kw"&gt;defun&lt;/span&gt;&lt;span class="fu"&gt; dev-studio-build &lt;/span&gt;()
+  (interactive)
+  (&lt;span class="kw"&gt;let*&lt;/span&gt;
+      ((solution-name
+        (read-file-name &lt;span class="st"&gt;&amp;quot;Solution: &amp;quot;&lt;/span&gt; &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;t&lt;/span&gt;))
+       (projects
+        (extract-projects solution-name))
+       (action
+        (completing-read &lt;span class="st"&gt;&amp;quot;Action: &amp;quot;&lt;/span&gt; &amp;#39;((&lt;span class="st"&gt;&amp;quot;Build&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;0&lt;/span&gt;) (&lt;span class="st"&gt;&amp;quot;Clean&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;1&lt;/span&gt;) (&lt;span class="st"&gt;&amp;quot;Run&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;2&lt;/span&gt;) (&lt;span class="st"&gt;&amp;quot;RunExit&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;3&lt;/span&gt;))
+                         &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;t&lt;/span&gt; &lt;span class="st"&gt;&amp;quot;Build&amp;quot;&lt;/span&gt;))
+       (configuration
+        (completing-read &lt;span class="st"&gt;&amp;quot;Configuration: &amp;quot;&lt;/span&gt; &amp;#39;((&lt;span class="st"&gt;&amp;quot;Debug&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;0&lt;/span&gt;) (&lt;span class="st"&gt;&amp;quot;Release&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;1&lt;/span&gt;) (&lt;span class="st"&gt;&amp;quot;Hybrid&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;2&lt;/span&gt;))
+                         &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;t&lt;/span&gt; &lt;span class="st"&gt;&amp;quot;Debug&amp;quot;&lt;/span&gt;))
+       (platform
+        (completing-read &lt;span class="st"&gt;&amp;quot;Platform: &amp;quot;&lt;/span&gt; &amp;#39;((&lt;span class="st"&gt;&amp;quot;Win32&amp;quot;&lt;/span&gt; .&lt;span class="dv"&gt;0&lt;/span&gt;) (&lt;span class="st"&gt;&amp;quot;x86&amp;quot;&lt;/span&gt; . &lt;span class="dv"&gt;1&lt;/span&gt;))
+                         &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;t&lt;/span&gt; &lt;span class="st"&gt;&amp;quot;Win32&amp;quot;&lt;/span&gt;))
+       (project
+        (completing-read &lt;span class="st"&gt;&amp;quot;Project &amp;quot;&lt;/span&gt; projects
+                         &lt;span class="kw"&gt;nil&lt;/span&gt; &lt;span class="kw"&gt;t&lt;/span&gt; (&lt;span class="kw"&gt;caar&lt;/span&gt; projects))))
+    (&lt;span class="kw"&gt;compile&lt;/span&gt;
+     (concat &lt;span class="st"&gt;&amp;quot;Devenv &amp;quot;&amp;quot; solution-name &amp;quot;&amp;quot; /&amp;quot;&lt;/span&gt; action &lt;span class="st"&gt;&amp;quot; &amp;quot;&amp;quot;  (concat configuration &amp;quot;&lt;/span&gt;|&lt;span class="st"&gt;&amp;quot; platform) &amp;quot;&amp;quot; /project &amp;quot;&amp;quot; (cdr (assoc project projects)) &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;))))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x7136;&#x540E;&#x5C06; &lt;code&gt;dev-studio-build&lt;/code&gt; &#x7ED1;&#x5B9A;&#x5230; &lt;code&gt;F7&lt;/code&gt; &#x952E;&#x4E0A;&#xFF0C;&#x4F8B;&#x5982;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode commonlisp"&gt;&lt;code class="sourceCode commonlisp"&gt;(&lt;span class="kw"&gt;defun&lt;/span&gt;&lt;span class="fu"&gt; my-c-mode-common-hook&lt;/span&gt;()
+    (define-key c-mode-base-map [(f7)] &amp;#39;dev-studio-build)
+
+(add-hook &amp;#39;c-mode-common-hook &amp;#39;my-c-mode-common-hook)&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="&#x65B9;&#x6848;&#x4E8C;nmake-.mak"&gt;2 &#x65B9;&#x6848;&#x4E8C;&#xFF1A;nmake + .mak&lt;/h2&gt;
+&lt;p&gt;&#x76F4;&#x63A5;&#x7F16;&#x8BD1;&lt;em&gt;.sln&#x6587;&#x4EF6;&#x7684;&#x7F3A;&#x70B9;&#x5728;&#x4E8E;&#x7F16;&#x8BD1;&#x540E;&#x53EA;&#x4F1A;&#x7ED9;&#x51FA;&#x7ED3;&#x679C;&#xFF0C;&#x800C;&#x6CA1;&#x6709;&#x9519;&#x8BEF;&#x63D0;&#x793A;&#xFF0C;&#x8FD9;&#x6837;&#x4E0D;&#x5229;&#x4E8E;&#x8C03;&#x8BD5;&#x3002;&#x9664;&#x4E86;&#x76F4;&#x63A5;&#x7F16;&#x8BD1;&lt;/em&gt;.sln&#x6587;&#x4EF6;&#x4E4B;&#x5916;&#xFF0C;&#x53E6;&#x5916;&#x7684;&#x9009;&#x62E9;&#x662F;&#x4F7F;&#x7528;&#x5FAE;&#x8F6F;&#x81EA;&#x5BB6;&#x7684; make &#x5DE5;&#x5177; &#x2014;&#x2014; nmake &#x6765;&#x7F16;&#x8BD1; Makefile &lt;sup&gt;&lt;a href="#fn-.1"&gt;1&lt;/a&gt;&lt;/sup&gt; &#x6216;&#x8005; .mak &#x6587;&#x4EF6;&#x3002;&#x4F46; VS &#x4F7F;&#x7528; *.sln &#x548C; *.vcproj &#x6765;&#x7BA1;&#x7406;&#x5DE5;&#x7A0B;&#x9879;&#x76EE;&#xFF0C;&#x5E76;&#x4E0D;&#x63D0;&#x4F9B; .mak &#x6587;&#x4EF6;&#x3002;&#x4E3A;&#x4E86;&#x5F97;&#x5230;&#x8FD9;&#x4E2A;&#x6587;&#x4EF6;&#xFF0C;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x4E00;&#x4E2A; python &#x811A;&#x672C; &lt;a href="http://inet-lab.googlecode.com/svn/trunk/utils/Misc/vcproj2mak.py"&gt;vcproj2mak.py&lt;/a&gt; &#x3002;&#x4F7F;&#x7528;&#x547D;&#x4EE4;&#x4E3A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;python&lt;/span&gt; vcproj2mak.py &#x5DE5;&#x7A0B;&#x6587;&#x4EF6;.vcproj -O makefile&#x6587;&#x4EF6;.mak&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x6267;&#x884C;&#x8FD9;&#x4E2A;&#x811A;&#x672C;&#x9700;&#x8981;&#x6EE1;&#x8DB3;&#x4E24;&#x4E2A;&#x6761;&#x4EF6;&#xFF1A;&lt;/p&gt;
+&lt;ol style="list-style-type: decimal"&gt;
+&lt;li&gt;&lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt; 2.x &#x6216; 3.x&#xFF0C;&#x5B89;&#x88C5;&#x7684;&#x65F6;&#x5019;&#x6CE8;&#x610F;&#x9009;&#x62E9;&#x6CE8;&#x518C;&#x73AF;&#x5883;&#x53D8;&#x91CF;&#xFF0C;&#x7701;&#x5F97;&#x81EA;&#x5DF1;&#x6DFB;&#x52A0;&#xFF1B;&lt;/li&gt;
+&lt;li&gt;&#x751F;&#x6210;&#x7684; .mak &#x6587;&#x4EF6;&#x9700;&#x8981;&#x8C03;&#x7528; mkdir &#x6307;&#x4EE4;&#x6765;&#x521B;&#x5EFA;&#x6587;&#x4EF6;&#x5939;&#xFF0C;&#x800C;&#x8FD9;&#x4E2A;&#x6307;&#x4EE4;&#x662F; Unix &#x4E0B;&#x7684;&#x5DE5;&#x5177;&#x3002;&#x6240;&#x4EE5;&#x5EFA;&#x8BAE;&#x88C5;&#x4E00;&#x4E2A; &lt;a href="https://sourceforge.net/projects/gnuwin32/"&gt;GnuWin&lt;/a&gt; &#x5957;&#x4EF6;&#xFF0C;&#x8FD9;&#x4E2A;&#x5957;&#x4EF6;&#x63D0;&#x4F9B;&#x4E86;&#x5927;&#x91CF;&#x6709;&#x7528;&#x7684; Unix &#x5DE5;&#x5177;&#x3002;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&#x5728;&#x811A;&#x672C;&#x6267;&#x884C;&#x8FC7;&#x7A0B;&#x4E2D;&#x53EF;&#x80FD;&#x4F1A;&#x62A5;&#x201C;unknown encoding&#x201D;&#x9519;&#x8BEF;&#xFF0C;&#x8FD9;&#x4E2A;&#x539F;&#x56E0;&#x662F; vcproj &#x6587;&#x4EF6;&#x5728; Windows &#x4E0B;&#x7684;&#x9ED8;&#x8BA4;&#x7F16;&#x7801;&#x662F; gb2312 &#x7684;&#xFF0C;&#x800C; python &#x4F3C;&#x4E4E;&#x4E0D;&#x652F;&#x6301; gb2312 &#x3002;&#x89E3;&#x51B3;&#x7684;&#x65B9;&#x6CD5;&#x662F;&#x4F7F;&#x7528; Emacs &#x6253;&#x5F00;&#x90A3;&#x4E2A; vcproj &#x6587;&#x4EF6;&#xFF0C;&#x7136;&#x540E; &lt;code&gt;C-x Ret r&lt;/code&gt; &#xFF0C;&#x9009;&#x62E9; &lt;code&gt;UTF-8&lt;/code&gt; &#x5C06;&#x6587;&#x4EF6;&#x7F16;&#x7801;&#x6539;&#x4E3A; UTF-8 &#x683C;&#x5F0F;&#xFF0C;&#x5E76;&#x5C06;&#x7B2C;&#x4E00;&#x884C;&lt;/p&gt;
+&lt;pre class="sourceCode html"&gt;&lt;code class="sourceCode html"&gt;&lt;span class="kw"&gt;&amp;lt;?xml&lt;/span&gt; version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;gb2312&amp;quot;&lt;span class="kw"&gt;?&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x4E2D;&#x7684; &#x201C;gb2312&#x201D; &#x6539;&#x4E3A; &#x201C;utf-8&#x201D; &#x5373;&#x53EF;&#x3002;&#x5B8C;&#x6210;&#x540E;&#x53EF;&#x4EE5;&#x8C03;&#x7528; nmake &#x6765;&#x6267;&#x884C;&#x7F16;&#x8BD1;&#xFF0C;&#x8C03;&#x7528;&#x683C;&#x5F0F;&#x4E3A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;nmake&lt;/span&gt; -f mak&#x6587;&#x4EF6;&#x540D; &#x7F16;&#x8BD1;&#x9009;&#x9879;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x5176;&#x4E2D; &lt;code&gt;&#x7F16;&#x8BD1;&#x9009;&#x9879;&lt;/code&gt; &#x662F;&#x4F60;&#x7684;&#x7F16;&#x8BD1;&#x65B9;&#x6848;&#xFF0C;&#x4E00;&#x822C;&#x53EF;&#x4EE5;&#x9009;&#x62E9; &lt;code&gt;Debug&lt;/code&gt; &#x6216;&#x8005; &lt;code&gt;Release&lt;/code&gt; &#x3002;&lt;/p&gt;
+&lt;p&gt;&#x53E6;&#x5916;&#x4E00;&#x4E2A;&#x95EE;&#x9898;&#x662F;&#x5F53;&#x8C03;&#x7528;&#x8FC7;&#x4E00;&#x6B21; nmake &#x540E;&#xFF0C;nmake &#x5C31;&#x4F1A;&#x5728;&#x5F53;&#x524D;&#x76EE;&#x5F55;&#x4E0B;&#x521B;&#x5EFA; Debug &#x6216;&#x8005; Release &#x76EE;&#x5F55;&#xFF0C;&#x6B64;&#x65F6;&#x518D;&#x8C03;&#x7528;&#x4E00;&#x6B21; nmake &#x4F1A;&#x63D0;&#x793A;&#x6587;&#x4EF6;&#x5939;&#x521B;&#x5EFA;&#x9519;&#x8BEF;&#x3002;&#x4F8B;&#x5982;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;mkdir&lt;/span&gt; Debug
+&lt;span class="st"&gt;&amp;quot;d:/Program Files/Git/bin/mkdir.EXE&amp;quot;&lt;/span&gt;: &lt;span class="kw"&gt;cannot&lt;/span&gt; create directory &lt;span class="kw"&gt;`Debug&lt;/span&gt;&lt;span class="st"&gt;&amp;#39;: File exists&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x89E3;&#x51B3;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x7684;&#x65B9;&#x6CD5;&#x662F;&#x4FEE;&#x6539;&#x751F;&#x6210;&#x7684; .mak &#x6587;&#x4EF6;&#xFF0C;&#x5728;&#x5176;&#x4E2D;&#x7684; &#x201C;mkdir Debug&#x201D; &#x548C; &#x201C;mkdir Release&#x201D; &#x4E24;&#x884C;&#x8BED;&#x53E5;&#x7684;&#x524D;&#x9762;&#x52A0;&#x4E00;&#x4E2A;&#x51CF;&#x53F7; &#x201C;-&#x201D; &#xFF0C;&#x8868;&#x793A;&#x65E0;&#x8BBA; mkdir &#x8FC7;&#x7A0B;&#x4E2D;&#x51FA;&#x73B0;&#x4EC0;&#x4E48;&#x9519;&#x8BEF;&#xFF0C;&#x90FD;&#x4E0D;&#x8981;&#x62A5;&#x9519;&#x7EE7;&#x7EED;&#x6267;&#x884C;&#x3002;&#x66F4;&#x4E00;&#x52B3;&#x6C38;&#x9038;&#x7684;&#x505A;&#x6CD5;&#x662F;&#x4FEE;&#x6539;&#x90A3;&#x4E2A; python &#x811A;&#x672C;&#xFF0C;&#x5C06;&#x7B2C;207&#x884C;&lt;/p&gt;
+&lt;pre class="sourceCode python"&gt;&lt;code class="sourceCode python"&gt;mkwrite ( fh, &lt;span class="st"&gt;&amp;quot;tmkdir &lt;/span&gt;&lt;span class="ot"&gt;%s&lt;/span&gt;&lt;span class="st"&gt;&amp;quot;&lt;/span&gt; % cfname )&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x6539;&#x4E3A;&lt;/p&gt;
+&lt;pre class="sourceCode python"&gt;&lt;code class="sourceCode python"&gt;mkwrite ( fh, &lt;span class="st"&gt;&amp;quot;t-mkdir &lt;/span&gt;&lt;span class="ot"&gt;%s&lt;/span&gt;&lt;span class="st"&gt;&amp;quot;&lt;/span&gt; % cfname )&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x5373;&#x53EF;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x5230;&#x8FD9;&#x91CC;&#x8FD8;&#x6CA1;&#x7ED3;&#x675F;&#xFF0C;&#x4E3A;&#x4E86;&#x8BA9; Emacs &#x66F4;&#x65B9;&#x4FBF;&#x7684;&#x8C03;&#x7528; nmake&#xFF0C;&#x53EF;&#x4EE5;&#x5C06; nmake &#x4F5C;&#x4E3A;&#x4E3B;&#x8981;&#x7684;&#x7F16;&#x8BD1;&#x5DE5;&#x5177;&#x3002;&#x5728; .emacs &#x6587;&#x4EF6;&#x4E2D;&#x52A0;&#x5165;&#x8FD9;&#x4E00;&#x884C;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode commonlisp"&gt;&lt;code class="sourceCode commonlisp"&gt;&lt;span class="co"&gt;;; Set up for Visual C++ compiling&lt;/span&gt;
+(&lt;span class="kw"&gt;setq&lt;/span&gt; compile-command &lt;span class="st"&gt;&amp;quot;nmake -f &amp;quot;&lt;/span&gt;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x8FD8;&#x6709;&#x4E00;&#x4E2A;&#x66F4;&#x597D;&#x7684;&#x505A;&#x6CD5;&#x662F;&#x518D;&#x5199;&#x4E00;&#x4E2A;&#x603B;&#x7684; Makefile &#xFF0C;&#x4EE5;&#x4FBF;&#x4E8E;&#x9009;&#x62E9;&#x7F16;&#x8BD1;&#x9009;&#x9879;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode makefile"&gt;&lt;code class="sourceCode makefile"&gt;&lt;span class="dt"&gt;PROJECT&lt;/span&gt;&lt;span class="ch"&gt;=&lt;/span&gt;&lt;span class="st"&gt;MyProject&lt;/span&gt;
+&lt;span class="dv"&gt;all:&lt;/span&gt;&lt;span class="dt"&gt; debug&lt;/span&gt;
+&lt;span class="dv"&gt;debug:&lt;/span&gt;&lt;span class="dt"&gt; FORCE&lt;/span&gt;
+nmake /f &lt;span class="ch"&gt;$(&lt;/span&gt;&lt;span class="dt"&gt;PROJECT&lt;/span&gt;&lt;span class="ch"&gt;)&lt;/span&gt;.mak &lt;span class="dt"&gt;CFG&lt;/span&gt;&lt;span class="ch"&gt;=&lt;/span&gt;&lt;span class="st"&gt;&amp;quot;&lt;/span&gt;&lt;span class="ch"&gt;$(&lt;/span&gt;&lt;span class="dt"&gt;PROJECT&lt;/span&gt;&lt;span class="ch"&gt;)&lt;/span&gt;&lt;span class="st"&gt; - Win32 Debug&amp;quot;&lt;/span&gt;
+&lt;span class="dv"&gt;release:&lt;/span&gt;&lt;span class="dt"&gt; FORCE&lt;/span&gt;
+nmake /f &lt;span class="ch"&gt;$(&lt;/span&gt;&lt;span class="dt"&gt;PROJECT&lt;/span&gt;&lt;span class="ch"&gt;)&lt;/span&gt;.mak &lt;span class="dt"&gt;CFG&lt;/span&gt;&lt;span class="ch"&gt;=&lt;/span&gt;&lt;span class="st"&gt;&amp;quot;&lt;/span&gt;&lt;span class="ch"&gt;$(&lt;/span&gt;&lt;span class="dt"&gt;PROJECT&lt;/span&gt;&lt;span class="ch"&gt;)&lt;/span&gt;&lt;span class="st"&gt; - Win32 Release&amp;quot;&lt;/span&gt;
+&lt;span class="dv"&gt;FORCE:&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="&#x65B9;&#x6848;&#x4E09;msdev-.dsw"&gt;3 &#x65B9;&#x6848;&#x4E09;&#xFF1A;msdev + .dsw&lt;/h2&gt;
+&lt;p&gt;VC 6.0 &#x4F7F;&#x7528;&#x4E00;&#x4E2A;&#x66F4;&#x53E4;&#x8001;&#x7684;&#x5DE5;&#x5177; msdev.exe &#x6765;&#x7F16;&#x8BD1;VC&#x7684;&#x5DE5;&#x7A0B;&#x6587;&#x4EF6;&#x3002;&#x76F4;&#x63A5;&#x8C03;&#x7528;msdev.exe&#xFF0C;&#x5373;&#x542F;&#x52A8;Visual studio&#x7684;UI&#x754C;&#x9762;&#xFF0C;&#x540C;&#x65F6;msdev.exe&#x4E5F;&#x63A5;&#x53D7;&#x547D;&#x4EE4;&#x884C;&#x8C03;&#x7528;&#x3002;&#x6211;&#x4EEC;&#x770B;&#x5176;&#x5E2E;&#x52A9;&#x3002;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;msdev /?
+msdev /?
+Usage:
+MSDEV [myprj.dsp|mywksp.dsw]    - load project/workspace
+[]        - load source file
+/?            - display usage information
+/EX         - execute a VBScript macro
+/OUT         - redirect command line output to a file
+/USEENV            - ignore tools.options.directories settings
+/MAKE [] [...]    - build specified target(s)
+[
+-
+]
+[[
+|ALL] - [DEBUG|RELEASE|ALL]]
+/CLEAN        - delete intermediate files but don&amp;#39;t build
+/REBUILD        - clean and build
+/NORECURSE    - don&amp;#39;t build dependent projects&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x793A;&#x4F8B;&#x8BED;&#x53E5;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;&lt;span class="kw"&gt;C&lt;/span&gt;:Program Files/Microsoft Visual Studio/VC98binmsdev.exe test2.dsw /Make  /NORECURSE&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x540C;&#x6837;&#xFF0C;&#x4F7F;&#x7528;clean&#xFF0C;rebuild&#x53EF;&#x4EE5;&#x6E05;&#x9664;&#x3001;&#x91CD;&#x7F16;&#x8BD1;&#x8BE5;&#x5DE5;&#x7A0B;&#x3002;&#x5C06;test2 &#x6539;&#x4E3A;test21&#xFF0C;test23&#xFF0C;&#x5373;&#x6539;&#x53D8;&#x7F16;&#x8BD1;&#x5BF9;&#x8C61;&#x3002; &#x603B;&#x8FD9;&#x6837;&#x5199;&#x4E5F;&#x5F88;&#x9EBB;&#x70E6;&#xFF0C;&#x800C;&#x4E14;&#x4E3A;&#x4E86;&#x5728;Emacs&#x4E2D;&#x8C03;&#x7528; &#xFF0C;&#x6211;&#x4EEC;&#x5C06;&#x5176;&#x5199;&#x6210;&#x4E00;&#x4E2A;&#x6279;&#x5904;&#x7406;&#x3002;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;&lt;span class="kw"&gt;d&lt;/span&gt;:
+&lt;span class="kw"&gt;cd&lt;/span&gt; d:Mydocumentsworkbench
+&lt;span class="kw"&gt;set&lt;/span&gt; &lt;span class="ot"&gt;project=&lt;/span&gt;&lt;span class="kw"&gt;%1&lt;/span&gt;
+&lt;span class="kw"&gt;set&lt;/span&gt; &lt;span class="ot"&gt;target=&lt;/span&gt;&lt;span class="kw"&gt;%2&lt;/span&gt;
+&lt;span class="kw"&gt;if&lt;/span&gt; &lt;span class="kw"&gt;project&lt;/span&gt; == set project=test2
+    &lt;span class="kw"&gt;if&lt;/span&gt; &lt;span class="kw"&gt;target&lt;/span&gt; == set target=/NORECURSE
+        &lt;span class="kw"&gt;msdev&lt;/span&gt; test2.dsw /Make %target%&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x4FDD;&#x5B58;&#x4E3A;makTest2.bat&#x3002;&#x8C03;&#x7528;&#x65B9;&#x5F0F;&#x4E3A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;makeTest2&lt;/span&gt; [&#x5DE5;&#x7A0B; [&#x76EE;&#x6807;]]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x9ED8;&#x8BA4;&#x4E3A;&#x7F16;&#x8BD1;test2 &#x7684; /NORECURSE&#x3002;&#x5982;&#x679C;&#x8981;&#x7F16;&#x8BD1;test23&#x7684;rebuild&#xFF0C;&#x8C03;&#x7528;&#x65B9;&#x5F0F;&#x4E3A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;makeTest2&lt;/span&gt; test23 /REBUILD&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="footnotes"&gt;Footnotes:&lt;/h2&gt;
+&lt;p&gt;&lt;sup&gt;&lt;a href="#fnr-.1"&gt;1&lt;/a&gt;&lt;/sup&gt; &#x8FD9;&#x91CC;&#x6307;&#x7684; Makefile &#x662F;&#x6307;&#x9002;&#x7528;&#x4E8E;&#x5FAE;&#x8F6F;&#x7684; nmake &#x7684; Makefile &#x6587;&#x4EF6;&#x3002;&#x5FAE;&#x8F6F;&#x7684; nmake &#x4F7F;&#x7528;&#x4E86;&#x81EA;&#x5DF1;&#x7684;&#x4E00;&#x5957;&#x6807;&#x51C6;&#xFF08;&#x539F;&#x56E0;&#x4F60;&#x61C2;&#x7684;&#xFF09;&#x3002;&#x5982;&#x679C;&#x9700;&#x8981;&#x5F97;&#x5230;&#x9002;&#x7528;&#x4E8E; GNU Linux &#x7684; Makefile&#xFF0C;&#x53EF;&#x4EE5;&#x8BD5;&#x8BD5; &lt;a href="http://www.codeproject.com/Articles/28908/Tool-for-Converting-VC-2005-Project-to-Linux-Makef"&gt;sln2mak&lt;/a&gt; &#x5DE5;&#x5177;&#x3002;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ArchLinux&#x5B89;&#x88C5;&#x914D;&#x7F6E;OpenGL</title>
+      <link>http://sample.com/projects/archlinux%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEopengl</link>
+      <pubDate>2012-10-07</pubDate>
+      <description>&lt;h2 id="&#x524D;&#x8A00;"&gt;1 &#x524D;&#x8A00;&lt;/h2&gt;
+&lt;!-- &lt;div class="wp-caption alignright" style="width: 200px"&gt;&lt;img src="http://i.imgur.com/oRkhn.jpg" alt="http://i.imgur.com/oRkhn.jpg" width="219" height="272" /&gt;&lt;p class="wp-caption-text"&gt;OpenGL SuperBible 5th Edition&lt;/p&gt;&lt;/div&gt; --&gt;
+
+&lt;p&gt;&#x5728;Linux&#x5B89;&#x88C5;&#x914D;&#x7F6E;OpenGL&#x7406;&#x8BBA;&#x4E0A;&#x662F;&#x4E00;&#x4EF6;&#x975E;&#x5E38;&#x8F7B;&#x677E;&#x7684;&#x4E8B;&#x60C5;&#xFF0C;&#x56E0;&#x4E3A;OpenGL&#x672C;&#x8EAB;&#x5C31;&#x662F;&#x8DE8;&#x5E73;&#x53F0;&#x7684;&#x4E1C;&#x897F;&#x3002;&#x4F46;&#x6211;&#x5728;&#x770B; OpenGL SuperBible 4th Edition &#x7684;&#x65F6;&#x5019;&#xFF0C;&#x5374;&#x603B;&#x662F;&#x9047;&#x5230;&#x4E00;&#x4E9B;&#x8BA9;&#x6211;&#x90C1;&#x95F7;&#x7684;&#x4E8B;&#x60C5;&#xFF1A;&#x81EA;&#x5E26;&#x7684;GLTools&#x7C7B;&#x5305;&#x53EA;&#x80FD;&#x5728;Windows&#x548C;Mac OSX&#x4E0B;&#x4F7F;&#x7528;&#xFF0C;&#x800C;&#x4E14;&#x8FD8;&#x5F97;&#x81EA;&#x5DF1;&#x5199;Makefile&#x3002;&#x540E;&#x6765;&#x5230;&#x7F51;&#x4E0A;&#x627E;&#x89E3;&#x51B3;&#x65B9;&#x6CD5;&#xFF0C;&#x624D;&#x53D1;&#x73B0; SuperBible &#x5DF2;&#x7ECF;&#x65E9;&#x5DF2;&#x7ECF;&#x51FA;&#x5230;&#x4E86; 5th Edition&#xFF0C;&#x5E76;&#x4E14;&#x52A0;&#x5165;&#x4E86;&#x5BF9;Linux&#x7684;&#x652F;&#x6301;&#x3002; &lt;code&gt;--bbb&lt;/code&gt; &#x8FD9;&#x7ED9;&#x6211;&#x4E24;&#x5927;&#x6559;&#x8BAD;&#xFF1A;&lt;/p&gt;
+&lt;ol style="list-style-type: decimal"&gt;
+&lt;li&gt;&#x5F53;&#x4E66;&#x4E2D;&#x7684;&#x5185;&#x5BB9;&#x6709;&#x6240;&#x6B20;&#x7F3A;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x5E94;&#x8BE5;&#x53CA;&#x65F6;&#x53BB;&#x770B;&#x5B98;&#x7F51;&#xFF0C;&#x770B;&#x770B;&#x6709;&#x6CA1;&#x6709;&#x53D1;&#x5E03;&#x65B0;&#x7684;&#x7248;&#x672C;&#xFF0C;&#x800C;&#x4E0D;&#x662F;&#x81EA;&#x5DF1;&#x5728;&#x4E00;&#x65C1;&#x6478;&#x7D22;&#x89E3;&#x51B3;&#x65B9;&#x6CD5;&#x3002;&lt;/li&gt;
+&lt;li&gt;&#x4E0D;&#x8981;&#x603B;&#x6307;&#x671B;&#x7F51;&#x4E0A;&#x80FD;&#x591F;&#x4E0B;&#x8F7D;&#x5230;&#x7535;&#x5B50;&#x7248;&#x672C;&#xFF0C;&#x80FD;&#x591F;&#x4E0B;&#x8F7D;&#x7684;&#x5927;&#x591A;&#x6570;&#x662F;Out of Date&#x7684;&#x3002;&#x7D22;&#x6027;&#x7F51;&#x8D2D;&#x4E86;&#x4E00;&#x672C;&#x7EB8;&#x8D28;&#x7248;:sigh&#x3002;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="&#x5B89;&#x88C5;-opengl"&gt;2 &#x5B89;&#x88C5; OpenGL&lt;/h2&gt;
+&lt;p&gt;&#x5C06;&#x7B2C;&#x4E94;&#x7248;&#x4E66;&#x4E2D;&#x7684;&#x4EE3;&#x7801;&#x4E0B;&#x8F7D;&#x4E0B;&#x6765;&#xFF1A;&lt;/p&gt;
+&lt;pre class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;$ &lt;span class="kw"&gt;svn&lt;/span&gt; checkout http://oglsuperbible5.googlecode.com/svn/trunk/ oglsuperbible5-read-only&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x5F97;&#x5230;&#x5982;&#x4E0B;&#x7684;&#x76EE;&#x5F55;&#x6811;&#xFF1A;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;      
+   oglsuperbible5-read-only/    # OpenGL SuperBible 5th Edition &#x4EE3;&#x7801;&#x5305;
+   |                                                                  
+   +--  freeglut-2.6.0/         # freeglut &#x5B89;&#x88C5;&#x5305;                     
+   |                                                                  
+   +--  Linux/                  # Linux Makefile &#x5DE5;&#x7A0B;&#x6587;&#x4EF6;
+   |     |                                               
+   |     +----  Chap01/                                  
+   |     |        |                                      
+   |     |        +---- Block/                           
+   |     |                |                              
+   |     |                +---- Makefile # Block &#x7A0B;&#x5E8F;&#x7684;Makefile
+   |     |                                                     
+   |     +----  ...                                            
+   |     |                                                     
+   |                                                           
+   +--  Src/                   # &#x6E90;&#x4EE3;&#x7801;                                                
+   |     |                                                     
+   |     +----  Chap01/                                        
+   |     |        |                                            
+   |     |        +---- Block/                                 
+   |     |                |                                    
+   |     |                +---- Block.cpp # Block &#x7A0B;&#x5E8F;&#x6E90;&#x6587;&#x4EF6;
+   |     |                                                  
+   |     +----  ...                                         
+   |     |                                                  
+   |     |                                                  
+   |     +----  GLTools/      # GLTools&#x5DE5;&#x5177;&#x5305;               
+   |     |        |                                         
+   |     |        +---- include/  # &#x5934;&#x6587;&#x4EF6;                  
+   |     |        |      |                                  
+   |     |        |      +----  GL/                         
+   |     |        |      |                                  
+   |     |        |      +----  GLTools.h # GLTools&#x5934;&#x6587;&#x4EF6;   
+   |     |        |      |                                  
+   |     |        |      +----  math3d.h  # &#x77E9;&#x9635;&#x7C7B;&#x5934;&#x6587;&#x4EF6;    
+   |     |        |      |                                  
+   |     |        |      +----  ...                         
+   |     |        |                                         
+   |     |        +---- src/     # &#x6E90;&#x6587;&#x4EF6;                   
+   |     |               |                                  
+   |     |               +---- GLTools.cpp # GLTools&#x5934;&#x6587;&#x4EF6;  
+   |     |               |                                
+   |     |               +---- math3d.cpp  # &#x77E9;&#x9635;&#x7C7B;&#x6E90;&#x6587;&#x4EF6;
+   |     |               |                               
+   |     |               +---- ...                       
+   |     |                                               
+   |     +----  Models/                                  
+   |     |                                               
+   |     +----  OpenEXR/                                 
+   |                                                     
+   +--  VisualStudio2008/    # VisualStudio 2008 &#x5DE5;&#x7A0B;&#x6587;&#x4EF6;
+   |                                                     
+   +--  VisualStudio2010/    # VisualStudio 2010 &#x5DE5;&#x7A0B;&#x6587;&#x4EF6;
+   |                                                     
+   +--  XCode/               # XCode &#x5DE5;&#x7A0B;&#x6587;&#x4EF6;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x53EF;&#x4EE5;&#x770B;&#x5230;&#x5F00;&#x53D1;OpenGL&#x5FC5;&#x987B;&#x7684;freeglut&#x5305;&#x5DF2;&#x7ECF;&#x7ED9;&#x51FA;&#xFF0C;&#x8FDB;&#x5165;&#x8BE5;&#x76EE;&#x5F55;&#x5185;&#x5B89;&#x88C5;freeglut&#xFF1A;&lt;/p&gt;
+&lt;pre class="shell"&gt;&lt;code&gt;$ cd oglsuperbible5-read-only/freeglut-2.6.0
+$ ./autogen.sh
+$ ./configure
+$ make&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x5B8C;&#x6210;&#x540E;&#xFF0C;&#x5EFA;&#x8BAE;&#x628A;&#x5E2E;&#x52A9;&#x6587;&#x6863;&#x4E5F;&#x88C5;&#x4E0A;&#xFF1A;&lt;/p&gt;
+&lt;pre class="shell"&gt;&lt;code&gt;$ pacman -S opengl-man-pages # &#x53EF;&#x80FD;&#x9700;&#x8981;root&#x6743;&#x9650;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x8FD9;&#x6837;&#xFF0C;&#x5F53;&#x9700;&#x8981;&#x83B7;&#x53D6;&#x5E2E;&#x52A9;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x4F7F;&#x7528;man&#x67E5;&#x8BE2;&#xFF0C;&#x4F8B;&#x5982;&#x8981;&#x67E5;&#x770B; &lt;code&gt;glVertex&lt;/code&gt; &#x51FD;&#x6570;&#x7684;&#x5E2E;&#x52A9;&#xFF0C;&#x53EF;&#x4EE5;&#xFF1A;&lt;/p&gt;
+&lt;pre class="shell"&gt;&lt;code&gt;$ man glvertex&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="&#x7F16;&#x8BD1;&#x793A;&#x4F8B;&#x7A0B;&#x5E8F;"&gt;3 &#x7F16;&#x8BD1;&#x793A;&#x4F8B;&#x7A0B;&#x5E8F;&lt;/h2&gt;
+&lt;p&gt;&#x8981;&#x7F16;&#x8BD1;&#x4EE3;&#x7801;&#x5305;&#x63D0;&#x4F9B;&#x7684;&#x793A;&#x4F8B;&#x7A0B;&#x5E8F;&#xFF0C;&#x76F4;&#x63A5;&#x5728; &lt;strong&gt;Linux&lt;/strong&gt; &#x76EE;&#x5F55;&#x4E0B;&#x627E;&#x5230;&#x76F8;&#x5E94;&#x7684;&#x5DE5;&#x7A0B;Makefile&#xFF0C;&#x7136;&#x540E; &lt;code&gt;make&lt;/code&gt; &#x7F16;&#x8BD1;&#x5373;&#x53EF;&#x3002;&#x5173;&#x4E8E;Makefile&#x7684;&#x89C4;&#x5219;&#xFF0C;&#x63A8;&#x8350;&#x9605;&#x8BFB;&#x9648;&#x7693;&#x7F16;&#x5199;&#x7684;&#x300A;&lt;a href="http://wiki.ubuntu.org.cn/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B5%B7%E5%86%99Makefile"&gt;&#x8DDF;&#x6211;&#x4E00;&#x8D77;&#x5199;Makefile&lt;/a&gt;&#x300B;&#x3002;&lt;/p&gt;
+&lt;h2 id="&#x4E0D;&#x7528;&#x5199;makefile&#x4E5F;&#x80FD;&#x7F16;&#x8BD1;"&gt;4 &#x4E0D;&#x7528;&#x5199;Makefile&#x4E5F;&#x80FD;&#x7F16;&#x8BD1;&lt;/h2&gt;
+&lt;p&gt;&#x5982;&#x679C;&#x662F;&#x81EA;&#x5DF1;&#x7F16;&#x5199;&#x7684;&#x6E90;&#x6587;&#x4EF6;&#xFF0C;&#x6BCF;&#x6B21;&#x90FD;&#x8981;&#x5199;&#x4E00;&#x4E2A;Makefile&#x663E;&#x5F97;&#x592A;&#x8FC7;&#x7E41;&#x7410;&lt;sup&gt;&lt;a href="#fn-.2"&gt;&lt;/a&gt;2&lt;/sup&gt;&#xFF0C;&#x8FD9;&#x91CC;&#x7ED9;&#x51FA;&#x4E00;&#x4E2A;&#x65B9;&#x6CD5;&lt;sup&gt;&lt;a href="#fn-.3"&gt;&lt;/a&gt;3&lt;/sup&gt;&#xFF0C;&#x53EF;&#x4EE5;&#x8BA9;&#x4F60;&#x4E0D;&#x7528;&#x7F16;&#x5199;Makefile&#x5373;&#x53EF;&#x76F4;&#x63A5;&#x7F16;&#x8BD1;&#x7A0B;&#x5E8F;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x5C06;&#x4E0B;&#x9762;&#x7684;&#x4EE3;&#x7801;&#x4FDD;&#x5B58;&#x4E3A;&#x4E00;&#x4E2A;&#x811A;&#x672C; &lt;strong&gt;opengl&lt;/strong&gt; &#xFF1A;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; #!/bin/sh
+ g++ $1 -I GLTools/include/GL -I GLTools/include/ -I GLTools/src/ -I /usr/include -I /usr/local/include -I /usr/include -L /usr/X11R6/lib -L /usr/X11R6/lib64 -L /usr/local/lib -lX11 -lglut -lGL -lGLU -lm -o ${1%.*}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x4FDD;&#x5B58;&#x540E;&#xFF0C;&#x8D4B;&#x4E88;&#x5B83;&#x6267;&#x884C;&#x6743;&#x9650;&#xFF1A;&lt;/p&gt;
+&lt;pre class="shell"&gt;&lt;code&gt;$ sudo chmod +x opengl&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x53EF;&#x4EE5;&#x770B;&#x5230;&#x811A;&#x672C;&#x4E2D;&#x5F15;&#x7528;&#x4E86;&#x51E0;&#x4E2A;&#x76EE;&#x5F55;&#x4E2D;&#x7684;&#x6587;&#x4EF6;&#xFF0C;&#x6240;&#x4EE5;&#x9700;&#x8981;&#x5C06;&#x4EE3;&#x7801;&#x5305;&#x4E2D;&#x7684; &lt;strong&gt;Src&lt;/strong&gt; &#x76EE;&#x5F55;&#x4E0B;&#x7684; &lt;strong&gt;GLTools&lt;/strong&gt; &#x76EE;&#x5F55;&#x62F7;&#x8D1D;&#x5230;&#x8FD9;&#x4E2A;&#x6587;&#x4EF6;&#x5939;&#x4E2D;&#x6765;&#xFF0C;&#x5373;&#x4FDD;&#x8BC1;&#x4F60;&#x7684;&#x76EE;&#x5F55;&#x6811;&#x662F;&#x8FD9;&#x6837;&#x7684;&#xFF1A;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    program
+       |
+       +---- GLTools/      # GLTools&#x5DE5;&#x5177;&#x5305;
+       |       |
+       |       +---- include/  # &#x5934;&#x6587;&#x4EF6;
+       |       |      |
+       |       |      +----  GL/
+       |       |      |
+       |       |      +----  GLTools.h # GLTools&#x5934;&#x6587;&#x4EF6;
+       |       |      |
+       |       |      +----  math3d.h  # &#x77E9;&#x9635;&#x7C7B;&#x5934;&#x6587;&#x4EF6;
+       |       |      |
+       |       |      +----  ...
+       |       |
+       |       +---- src/     # &#x6E90;&#x6587;&#x4EF6;
+       |              |
+       |              +---- GLTools.cpp # GLTools&#x5934;&#x6587;&#x4EF6;
+       |              |
+       |              +---- math3d.cpp  # &#x77E9;&#x9635;&#x7C7B;&#x6E90;&#x6587;&#x4EF6;
+       |              |
+       |              +---- ...
+       |
+       +---- opengl     # opengl&#x811A;&#x672C;
+       |                            
+       +---- ...        # &#x4F60;&#x7F16;&#x5199;&#x7684;&#x6E90;&#x6587;&#x4EF6;&#xFF08;*.cpp&#xFF09;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x7136;&#x540E;&#x5C31;&#x53EF;&#x4EE5;&#x540C;&#x4E2A;&#x6587;&#x4EF6;&#x5939;&#x4E0B;&#x7F16;&#x5199;&#x7A0B;&#x5E8F;&#xFF0C;&#x8981;&#x4FDD;&#x8BC1;&#x6BCF;&#x4E2A;&#x7A0B;&#x5E8F;&#x7684;&#x5934;&#x90E8;&#x5F15;&#x5165;&#x5FC5;&#x8981;&#x7684;&#x5934;&#x6587;&#x4EF6;&#xFF1A;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; #include &amp;lt;GLTools.h&amp;gt;
+ #include &amp;lt;GLShaderManager.h&amp;gt;
+ #include &amp;lt;GLFrustum.h&amp;gt;
+ #include &amp;lt;GLBatch.h&amp;gt;
+ #include &amp;lt;GLMatrixStack.h&amp;gt;
+ #include &amp;lt;GLGeometryTransform.h&amp;gt;
+ #include &amp;lt;StopWatch.h&amp;gt;
+ #include &amp;lt;glew.c&amp;gt;
+ #include &amp;lt;GLTools.cpp&amp;gt;
+ #include &amp;lt;GLShaderManager.cpp&amp;gt;
+ #include &amp;lt;GLBatch.cpp&amp;gt;
+ #include &amp;lt;GLTriangleBatch.cpp&amp;gt;
+ #include &amp;lt;math3d.cpp&amp;gt;
+ #include &amp;lt;math.h&amp;gt;
+ #include &amp;lt;stdio.h&amp;gt;
+ #include &amp;lt;StopWatch.h&amp;gt;
+ #ifdef __APPLE__
+ #include &amp;lt;glut/glut.h&amp;gt;
+ #else
+ #define FREEGLUT_STATIC
+ #include &amp;lt;GL/glut.h&amp;gt;
+ #endif&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x7F16;&#x5199;&#x5B8C;&#x540E;&#xFF0C;&#x4F7F;&#x7528;&#x4E0B;&#x9762;&#x7684;&#x547D;&#x4EE4;&#x7F16;&#x8BD1;&#x7A0B;&#x5E8F;&#xFF1A;&lt;/p&gt;
+&lt;pre class="shell"&gt;&lt;code&gt;$ ./opengl &#x6587;&#x4EF6;&#x540D;.cpp&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="glut&#x5F39;&#x51FA;&#x83DC;&#x5355;&#x65E0;&#x6CD5;&#x663E;&#x793A;"&gt;5 glut&#x5F39;&#x51FA;&#x83DC;&#x5355;&#x65E0;&#x6CD5;&#x663E;&#x793A;&#xFF1F;&lt;/h2&gt;
+&lt;p&gt;&#x5982;&#x679C;&#x9047;&#x5230; &lt;code&gt;glutCreateMenu&lt;/code&gt; &#x51FD;&#x6570;&#x751F;&#x6210;&#x7684;&#x5F39;&#x51FA;&#x83DC;&#x5355;&#x65E0;&#x6CD5;&#x663E;&#x793A;&#x7684;&#x95EE;&#x9898;&#xFF0C;&#x53EF;&#x80FD;&#x662F;freeglut&#x7684;&#x7248;&#x672C;&#x592A;&#x9AD8;&#x7684;&#x539F;&#x56E0;&#x3002;&#x6211;&#x4E00;&#x5F00;&#x59CB;&#x662F;&#x4F7F;&#x7528;yaourt&#x547D;&#x4EE4;&#x5B89;&#x88C5;freeglut&#x7684;&#xFF0C;&#x5B89;&#x88C5;&#x7684;&#x7248;&#x672C;&#x662F;2.8.0&#xFF0C;&#x5C31;&#x5B58;&#x5728;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x89E3;&#x51B3;&#x7684;&#x65B9;&#x6CD5;&#x5C31;&#x662F;downgrade&#x4E4B;&#xFF1A;&lt;/p&gt;
+&lt;pre class="shell"&gt;&lt;code&gt;$ wget http://arm.konnichi.com/extra/os/{i686|x86_64}/freeglut-2.6.0-1-{i686|x86_64}.pkg.tar.gz
+$ pacman -U ./freeglut-2.6.0-1-{i686|x86_64}.pkg.tar.gz # &#x53EF;&#x80FD;&#x9700;&#x8981;root&#x6743;&#x9650;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="footnotes"&gt;Footnotes:&lt;/h2&gt;
+&lt;p&gt;&lt;sup&gt;&lt;a href="#fnr-.1"&gt;&lt;/a&gt;1&lt;/sup&gt; &#x5176;&#x5B9E;&#x6211;&#x559C;&#x6B22;&#x7535;&#x5B50;&#x7248;&#x672C;&#x7684;&#x539F;&#x56E0;&#x662F;&#x53EF;&#x4EE5;&#x65B9;&#x4FBF;&#x7684;&#x590D;&#x5236;&#x4E66;&#x4E2D;&#x7684;&#x5185;&#x5BB9;&#xFF0C;&#x8FD9;&#x5BF9;&#x6211;&#x505A;&#x7B14;&#x8BB0;&#x5F88;&#x6709;&#x7528;&#x3002;&#x53E6;&#x5916;&#x7531;&#x4E8E;&#x7535;&#x8111;&#x5C4F;&#x5E55;&#x591F;&#x5927;&#xFF0C;&#x6240;&#x4EE5;&#x5728;Awesome&#x4E0B;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x5F00;Emacs&#x548C;evince&#x4E24;&#x4E2A;&#x7A97;&#x53E3;&#xFF0C;&#x4E00;&#x8FB9;&#x770B;&#x4E66;&#x4E00;&#x8FB9;&#x52A8;&#x624B;&#xFF0C;&#x975E;&#x5E38;&#x987A;&#x624B;&#x3002;&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;&lt;a href="#fnr-.2"&gt;&lt;/a&gt;2&lt;/sup&gt; &#x5F53;&#x7136;&#xFF0C;&#x7F16;&#x5199;&#x4E00;&#x4E2A;&#x901A;&#x7528;&#x7684;Makefile&#x4E0D;&#x662F;&#x4E0D;&#x53EF;&#x80FD;&#xFF0C;&#x4F46;&#x5BF9;&#x4E8E;&#x65B0;&#x624B;&#x6765;&#x8BF4;&#x8981;&#x82B1;&#x8D39;&#x4E0D;&#x5C11;&#x65F6;&#x95F4;&#x3002;&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;&lt;a href="#fnr-.3"&gt;&lt;/a&gt;3&lt;/sup&gt; &#x51FA;&#x81EA;&#xFF1A;&lt;a href="http://www.jayrambhia.com/geek/article.php/GLtools_for_OpenGL"&gt;http://www.jayrambhia.com/geek/article.php/GLtools_for_OpenGL&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>C-c ' &#x5728; org-mode &#x4E2D;&#x7684;&#x5999;&#x7528;</title>
+      <link>http://sample.com/tools/c-c-%E5%9C%A8-org-mode-%E4%B8%AD%E7%9A%84%E5%A6%99%E7%94%A8</link>
+      <pubDate>2012-10-07</pubDate>
+      <description>&lt;h2 id="&#x7528;&#x9014;&#x4E00;&#x7F16;&#x8F91;&#x4EE3;&#x7801;"&gt;1 &#x7528;&#x9014;&#x4E00;&#xFF1A;&#x7F16;&#x8F91;&#x4EE3;&#x7801;&lt;/h2&gt;
+&lt;p&gt;&#x5728;org-mode&#x4E2D;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;&#x952E;&#x5165; &lt;code&gt;&amp;lt;s&lt;/code&gt; &#x5FEB;&#x901F;&#x8F93;&#x5165;&#x4EE3;&#x7801;&#x5F15;&#x7528;&#x6BB5;&#xFF0C;&#x5F97;&#x5230;&#x4E0B;&#x9762;&#x7684;&#x5185;&#x5BB9;&#xFF1A;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#+BEGIN_SRC
+
+#+END_SRC&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&#x4F46;&#x5F53;&#x6211;&#x4EEC;&#x5728;&#x91CC;&#x9762;&#x7F16;&#x8F91;&#x7684;&#x65F6;&#x5019;&#xFF0C;&#x4F1A;&#x53D1;&#x73B0;tab&#x65E0;&#x6CD5;&#x7F29;&#x8FDB;&#x3002;&#x4E00;&#x79CD;&#x89E3;&#x51B3;&#x65B9;&#x6CD5;&#x662F;&#x901A;&#x8FC7;&#x952E;&#x5165; &lt;code&gt;C-q &amp;lt;Tab&amp;gt;&lt;/code&gt; &#x7F29;&#x8FDB;&#xFF0C;&#x4F46;&#x5982;&#x679C;&#x6574;&#x4EFD;&#x6587;&#x6863;&#x90FD;&#x9700;&#x8981;&#x91CD;&#x6392;&#xFF0C;&#x4E00;&#x884C;&#x4E00;&#x884C;&#x7684;&#x6572;&#x80AF;&#x5B9A;&#x5F88;&#x8D39;&#x529B;&#x3002;&#x8FD9;&#x65F6;&#x5019;&#x53EF;&#x4EE5;&#x5728;&#x4EE3;&#x7801;&#x6BB5;&#x4E2D;&#x952E;&#x5165; &lt;code&gt;C-c '&lt;/code&gt; &#xFF0C;&#x6B64;&#x65F6;Emacs&#x4F1A;&#x65B0;&#x5EFA;&#x4E00;&#x4E2A;buffer&#xFF0C;&#x539F;&#x6765;&#x4EE3;&#x7801;&#x6BB5;&#x7684;&#x5185;&#x5BB9;&#x4F1A;&#x81EA;&#x52A8;&#x7C98;&#x8D34;&#x5230;&#x8FD9;&#x4E2A;buffer&#x91CC;&#xFF0C;&#x6B64;&#x65F6;&#x4F1A;&#x53D1;&#x73B0;&#x8FD9;&#x4E2A;buffer&#x7684;Minor Mode&#x521A;&#x597D;&#x662F;&#x76F8;&#x5E94;&#x8BED;&#x8A00;&#x7684;Mode&#xFF0C;&#x6240;&#x4EE5;&#x53EF;&#x4EE5;&#x5F88;&#x81EA;&#x5728;&#x7684;&#x5B8C;&#x6210;&#x5404;&#x79CD;&#x719F;&#x6089;&#x7684;&#x4EE3;&#x7801;&#x7F16;&#x8F91;&#x5DE5;&#x4F5C;&#x3002;&#x5B8C;&#x6210;&#x540E;&#x518D;&#x6B21;&#x6309; &lt;code&gt;C-c '&lt;/code&gt; &#x8FD4;&#x56DE;&#x3002;&lt;/p&gt;
+&lt;h2 id="&#x7528;&#x9014;&#x4E8C;&#x7ED8;&#x5236;ascii&#x56FE;"&gt;2 &#x7528;&#x9014;&#x4E8C;&#xFF1A;&#x7ED8;&#x5236;ASCII&#x56FE;&lt;/h2&gt;
+&lt;p&gt;&#x5982;&#x679C;&#x8981;&#x7ED8;&#x5236;ASCII&#x56FE;&#xFF0C;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x5728;&#x4E00;&#x4E2A;&#x7A7A;&#x884C;&#x4E2D;&#x952E;&#x5165; &lt;code&gt;C-c '&lt;/code&gt;&#xFF0C;&#x6B64;&#x65F6;Emacs&#x4F1A;&#x65B0;&#x5EFA;&#x4E00;&#x4E2A;&#x7A7A;&#x767D;&#x7684;buffer&#xFF0C;&#x5E76;&#x4E14;&#x81EA;&#x52A8;&#x6253;&#x5F00;&#x4E86;Artist-mode&#xFF0C;&#x53EF;&#x4EE5;&#x4F7F;&#x7528;&#x9F20;&#x6807;&#x6216;&#x952E;&#x76D8;&#x7ED8;&#x5236;ASCII&#x56FE;&#x3002;&#x5982; &lt;a href="/assets/media/figures/c-c-1.png"&gt;&#x56FE;1&lt;/a&gt; &#x6240;&#x793A;&#x3002;&lt;/p&gt;
+&lt;p&gt;&#x7ED8;&#x5236;&#x5B8C;&#x6210;&#x540E;&#xFF0C;&#x518D;&#x6B21;&#x6309; &lt;code&gt;C-c '&lt;/code&gt; &#x8FD4;&#x56DE;&#xFF0C;&#x53EF;&#x4EE5;&#x53D1;&#x73B0;ASCII&#x56FE;&#x7684;&#x5DE6;&#x8FB9;&#x591A;&#x4E86;&#x4E00;&#x4E9B;&#x5192;&#x53F7; &lt;code&gt;:&lt;/code&gt; &#xFF0C;&#x8FD9;&#x8868;&#x793A;&#x8FD9;&#x662F;&#x4E00;&#x526F;&#x7B49;&#x5BBD;ASCII&#x56FE;&#x3002;&#x5982;&lt;a href="/assets/media/figures/c-c-1.png"&gt;&#x56FE;2&lt;/a&gt;&#x6240;&#x793A;&#x3002;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

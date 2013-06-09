@@ -16,23 +16,45 @@
 
     <!-- Le styles -->
     {{# stylesheets.load }}
-      bootstrap.min.css
-      style.css
-      google_prettify/sons-of-obsidian.css
+    bootstrap.css
+    bootstrap.min.css
+    style.css
+    google_prettify/sons-of-obsidian.css
     {{/ stylesheets.load }}
 
-    <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
+      <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow|PT+Sans:400,400italic,700,700italic|Droid+Serif:400,400italic' rel='stylesheet' type='text/css'>
+
+      <!-- Le fav and touch icons -->
+      <link rel="shortcut icon" href="{{urls.media}}/favicon.png">
+      <!-- Update these with your own images
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+      -->
+      
+    {{# javascripts.load }}
+      jquery.lazyload.min.js
+    {{/ javascripts.load }}
+
+    <!-- lazyload -->
+    <script type="text/javascript">
+      jQuery(document).ready(function($){
+      if (navigator.platform == "iPad") return;
+      jQuery("img.lazy").not(".cycle img").lazyload({
+      effect:"fadeIn",
+      placeholder: "/assets/media/ajax-loader.gif"
+      });
+      });
+    </script>
+
+    {{{ widgets.analytics }}}
+  
   </head>
 
   <body>
 
-    <div class="navbar">
+    <div class="navbar navbar-inverse">
       <div class="navbar-inner">
         <div class="container-narrow">
           <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
@@ -40,29 +62,76 @@
             {{# data.navigation?to__root }}
               {{> pages_list }}
             {{/ data.navigation?to__root }}
+          <li class="divider-vertical"></li>
+          <li><a href="http://josephpan.net/wiki" target="_blank"><i class="icon-tasks icon-white"></i>&nbsp;Wiki</a></li>
           </ul>
-        </div>
-      </div>
-    </div>
 
+          <ul class="nav pull-right">
+            <li><a href="http://feed.feedsky.com/hahackrss" target="_blank"><i class="icon-bookmark icon-white"></i>&nbsp;Feed</a></li>	    
+	    <li><a href="/about" data-toggle="modal"><i class="icon-user icon-white"></i>&nbsp;About</a> </li>
+ 
+          </ul>
+        </div> <!-- container-narrow -->
+      </div> <!-- navbar-inner -->
+    </div> <!-- navbar navbar-inverse -->
+ 
     <div class="container-narrow">
-
+    
       <div class="content">
-        {{{ content }}}
+           {{{ content }}}
       </div>
 
-      <hr>
-      <div class="footer">
+    </div> <!-- container-narrow --> 
+
+    <div class="container">
+    <footer>
         <p>&copy; {{ data.author.name }} 2013
           with help from <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>. Theme by <a href="http://freemind.pluskid.org/">pluskid</a>.
         </p>
-      </div>
-
+	<footer>
     </div> <!-- /container -->
 
+    <a id="gotop" href="#">   
+	<span>▲</span> 
+    </a>
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    {{# javascripts.load }}
+    jquery-1.8.0.js    
+    bootstrap.js
+    jquery.mousewheel-3.0.6.pack.js    
+    jquery.smooth-scroll.min.js
+    {{/ javascripts.load }}
+
+    <script type="text/javascript">
+    $('#aboutModal').modal({
+    backdrop:true,
+    keyboard:true,
+    show:false
+    });
+    </script>
+
+   <script type="text/javascript">
+   $(function(){
+   $(window).scroll(function(){  //只要窗口滚动,就触发下面代码 
+   var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度 
+   if( scrollt >200 ){  //判断滚动后高度超过200px,就显示  
+	$("#gotop").fadeIn(400); //淡出     
+	}else{      
+	$("#gotop").stop().fadeOut(400); //如果返回或者没有超过,就淡入.必须加上stop()停止之前动画,否则会出现闪动   
+	}
+	});
+	$("#gotop").click(function(){ //当点击标签的时候,使用animate在200毫秒的时间内,滚到顶部
+	$("html,body").animate({scrollTop:"0px"},200);
+	});
+	});
+    </script>
+
     {{{ widgets.syntax }}}
-    {{{ widgets.analytics }}}
+    {{{ widgets.math }}}
     
   </body>
 </html>

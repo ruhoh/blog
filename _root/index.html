@@ -1,29 +1,78 @@
 ---
-title: Home
+title: 哈嘿！
 description:
 ---
 
-{{# posts.paginator }}
-<div class="post">
-  <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
+<div class="row-fluid">
+  <div class="span8">
 
-  {{{ summary }}}
+    <blockquote>
+      <p> {{ data.tagline }} </p>
+    </blockquote>
 
-  <div class="more">
-    <a href="{{url}}" class="btn btn-small">read more..</a>
-  </div>
-</div>
-{{/ posts.paginator }}
+    {{# posts.paginator }}
+    <div class="post">
+      <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date"> {{ date }} </span></h3>
 
-<div class="pagination">
-  <ul>
-  {{#posts.paginator_navigation}}
-    {{#is_active_page}}
-      <li class="active"><a href="{{url}}">{{name}}</a></li>
-    {{/is_active_page}}
-    {{^is_active_page}}
-      <li><a href="{{url}}">{{name}}</a></li>
-    {{/is_active_page}}
-  {{/posts.paginator_navigation}}
-  </ul>
+      {{{ summary }}}
+
+      <div class="more">
+	<a href="{{url}}" class="btn btn-small">read more..</a>
+      </div>
+      
+    </div> <!-- post -->
+    {{/ posts.paginator }}
+
+    <!-- don't use paginator
+	 <div class="pagination">
+	   <ul>
+	     {{#posts.paginator_navigation}}
+	     {{#is_active_page}}
+	     <li class="active"><a href="{{url}}">{{name}}</a></li>
+	     {{/is_active_page}}
+	     {{^is_active_page}}
+	     <li><a href="{{url}}">{{name}}</a></li>
+	     {{/is_active_page}}
+	     {{/posts.paginator_navigation}}
+	   </ul>
+	 </div>
+	 -->
+
+  </div> <!-- span8 -->
+  
+  <div class="span4">
+
+    <div id="sidebar">
+
+	<h3 class="dsq-widget-title">License</h3>    
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+
+      <hr>
+      
+      <div id="recentcomments" class="dsq-widget">
+	<h3 class="dsq-widget-title">Comments</h3>
+	<script type="text/javascript" src="http://ghsite.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=32&excerpt_length=200"></script></div>
+      <a href="http://disqus.com/">Powered by Disqus</a>
+
+      <hr>
+      
+      <h3>Links</h3>
+      <ul class="blogroll">
+	<li><i class="icon-star"></i>&nbsp;&nbsp;<a href="http://josephpan.net" rel="friend" target="_blank">My Homepage</a></li>
+	<li><i class="icon-star"></i>&nbsp;&nbsp;<a href="http://josephpan.net/blog" rel="friend" target="_blank");">My Old Blog</a></li>	
+	{{# data.links}}
+	<li><i class="icon-user"></i>&nbsp;&nbsp;<a href="{{url}}" rel="friend" target="_blank"]);">{{title}}</a></li>
+	{{/ data.links}}
+      </ul>
+    </div> <!-- sidebar -->
+  </div> <!-- span4 -->
+  
+</div> <!-- row-fluid -->   
+
+<hr>
+
+<div>
+  <center>
+    <a href="/archive">~~ Browse Archive ~~</a>
+  </center>
 </div>

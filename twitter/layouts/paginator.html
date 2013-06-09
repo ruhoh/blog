@@ -6,6 +6,7 @@ layout : default
   <div class="span12">
     {{#collection.paginator}}
       <div class="{{ collection.resource_name}}">
+      <div class="post">
         <h3 class="title"><a href="{{url}}">{{title}}</a> <span class="date">{{ date }}</span></h3>
 
         {{{ summary }}}
@@ -13,6 +14,7 @@ layout : default
         <div class="more">
           <a href="{{url}}" class="btn btn-small">read more..</a>
         </div>
+      </div>
       </div>
     {{/collection.paginator}}
     

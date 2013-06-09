@@ -12,27 +12,9 @@ layout : default
 </div>
 
 <div class="row-fluid post-full">
-  <div class="span12">
-    <div class="date">
-      <span>{{page.date}}</strong>
-    </div>
-    <div class="content">
+  <div class="span8">
       {{{ page.content }}}
-    </div>
-    <ul class="tag_box inline">
-      <li><i class="icon-folder-open"></i></li>
-    {{# page.categories }}
-      {{> categories_list }}
-    {{/ page.categories }}
-    </ul>
-    <ul class="tag_box inline">
-      <li><i class="icon-tags"></i></li>
-    {{# page.tags }}
-      {{> tags_list }}
-    {{/ page.tags }}
-    </ul>
-    <hr>
-    <div class="pagination">
+      <div class="pagination">
       <ul>
         {{# page.previous }}
           <li class="prev"><a href="{{ url }}" title="{{ title }}">&larr; Previous</a></li>
@@ -53,6 +35,27 @@ layout : default
     </div>
     <hr>
     {{{ widgets.comments }}}
+
   </div>
+  <div class="span4">
+    <div class="date">
+      <span>{{page.date}}</strong>
+    </div>
+
+    <ul class="tag_box inline">
+      <li><i class="icon-folder-open"></i></li>
+    {{# page.categories }}
+      {{> categories_list }}
+    {{/ page.categories }}
+    </ul>
+    
+    <ul class="tag_box inline">
+      <li><i class="icon-tags"></i></li>
+    {{# page.tags }}
+      {{> tags_list }}
+    {{/ page.tags }}
+    </ul>
+    <hr>
+    </div>
 </div>
 

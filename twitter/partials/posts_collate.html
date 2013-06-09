@@ -1,0 +1,9 @@
+<h3 class="archive-title show" data-toggle="collapse" data-target="#{{year}}">{{year}}<b class="caret"></b></h3>
+  <ul id="{{year}}" class="collapse in">
+  {{#months}}
+  {{#posts?to_posts}}
+    <li class="listing-item"><span>{{date}}</span> &raquo; <a href="{{url}}">{{title}}</a></li>
+  {{/posts?to_posts}}
+  {{/months}}
+  </ul>
+

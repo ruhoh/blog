@@ -1,0 +1,147 @@
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* v2.0 */
+/* line 10, ../sass/style.scss */
+.timeline {
+  margin: 50px auto;
+  max-width: 700px;
+  overflow: hidden;
+  height: auto;
+  position: relative;
+  /* 
+    elements 1,(2),3,(4), etc.
+    elements in brackets inherit these properties, some are overridden below (2n)
+    beginning at 0
+  */
+}
+/* line 17, ../sass/style.scss */
+.timeline .line {
+  position: absolute;
+  width: 1px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEElEQVQIW2NMTEz8z8gABAAPKwIlXWq1kgAAAABJRU5ErkJggg==);
+  height: 100%;
+  left: 49.9%;
+  z-index: 5;
+}
+/* line 27, ../sass/style.scss */
+.timeline .year {
+  position: relative;
+  float: left;
+  clear: both;
+  margin: 75px auto;
+  text-align: center;
+  width: 100%;
+  z-index: 10;
+  color: white;
+}
+/* line 37, ../sass/style.scss */
+.timeline .year.first {
+  margin-top: 0px !important;
+}
+/* line 41, ../sass/style.scss */
+.timeline .year span {
+  border-radius: 50px;
+  background: #505050;
+  font-size: 3em;
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+/* line 56, ../sass/style.scss */
+.timeline .event, .timeline .entry {
+  position: relative;
+  text-align: center;
+  float: right;
+  clear: right;
+  width: 45%;
+  margin: 10px 2.5%;
+  /* I want 40%, and not 45%! */
+  box-sizing: border-box;
+  border-radius: 5px;
+  list-style-type: none;
+  display: block;
+  padding: .4em;
+  background: white;
+  z-index: 15;
+  color: #4d4d4d;
+  border: 1px solid #9d9d9d;
+  text-decoration: none;
+  word-wrap: break-word;
+  -webkit-transition: all .15s linear;
+  -moz-transition: all .15s linear;
+  -ms-transition: all .15s linear;
+  -o-transition: all .15s linear;
+  transition: all .15s linear;
+}
+@media all and (max-width: 650px) {
+  /* line 56, ../sass/style.scss */
+  .timeline .event, .timeline .entry {
+    width: 85%;
+  }
+}
+/* line 90, ../sass/style.scss */
+.timeline .event img, .timeline .entry img {
+  margin-top: 10px;
+  max-width: 100%;
+}
+/* line 95, ../sass/style.scss */
+.timeline .event:hover, .timeline .entry:hover {
+  background: #767676;
+  color: white;
+}
+/* line 99, ../sass/style.scss */
+.timeline .event:hover a, .timeline .entry:hover a {
+  color: white;
+}
+/* line 103, ../sass/style.scss */
+.timeline .event:hover:after, .timeline .entry:hover:after {
+  background: #505050;
+}
+/* line 109, ../sass/style.scss */
+.timeline .event.offset-first, .timeline .entry.offset-first {
+  margin-top: -1.5em;
+}
+/* line 113, ../sass/style.scss */
+.timeline .event:nth-child(2n), .timeline .entry:nth-child(2n) {
+  float: left;
+  clear: left;
+}
+@media all and (min-width: 650px) {
+  /* line 118, ../sass/style.scss */
+  .timeline .event:after, .timeline .entry:after {
+    display: block;
+    content: ' ';
+    height: 6px;
+    width: 6px;
+    background: #9d9d9d;
+    border-radius: 50%;
+    position: absolute;
+    left: -5%;
+    top: .75em;
+    border: 2px solid white;
+  }
+}
+/* line 132, ../sass/style.scss */
+.timeline .event:nth-child(2n):after, .timeline .entry:nth-child(2n):after {
+  right: -5%;
+  /* reset the standard declaration I defined before*/
+  left: auto;
+}
+/* line 139, ../sass/style.scss */
+.timeline li {
+  text-align: left;
+}
+
+abbr[title],
+abbr[data-original-title] {
+  cursor: help;
+  border-bottom: 1px dotted #999999;
+}
+
+abbr.initialism {
+  font-size: 90%;
+  text-transform: uppercase;
+}
+
