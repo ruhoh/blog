@@ -6,10 +6,17 @@ A default blog scaffold for **ruhoh** compatible static blog parsers.
 
 ### ruby 1.9.2+
 
-#### Clone the Blog Scaffold
+#### Clone the Blog Scaffold and set your Theme
 
     $ git clone git://github.com/ruhoh/blog.git blog
     $ cd blog
+
+You'll need to download a theme. The recommended theme is twitter-v2
+
+    $ git submodule add https://github.com/ruhoh/theme-twitter-v2.git twitter-v2
+    $ vim config.yml # change from twitter to twitter-v2
+
+You can also choose from [one of the other themes](https://github.com/ruhoh?q=theme).
 
 #### Get Bundler
 
