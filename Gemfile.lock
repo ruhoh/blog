@@ -5,7 +5,7 @@ GEM
     mustache (0.99.4)
     nokogiri (1.5.9)
     psych (1.3.4)
-    rack (1.5.2)
+    rack (1.6.12)
     redcarpet (2.2.2)
     ruhoh (2.1)
       directory_watcher (~> 1.4.0)
@@ -19,4 +19,4 @@ PLATFORMS
 
 DEPENDENCIES
   psych (~> 1.3)
-  ruhoh (~> 2.1)
+  ruhoh (~> 2)
